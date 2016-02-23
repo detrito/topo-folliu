@@ -1,8 +1,20 @@
 *begin
 *title "RESEAU DU FOLLIU ( FOLLIU BORNA / FR )"
 
-*equate entree s1.0
-*fix entree 566187 149132 1611
+*equate entree_fb28 s1.0
+*fix entree_fb28 566187 149132 1611
+
+*equate entree_fb25 s18.15
+*fix entree_fb25 566198	149262 1585
+
+*equate entree_fb47 s25.17
+*fix entree_fb47 566191 149206 1598
+
+*equate entree_fb18 s55.14
+*fix entree_fb18 566408 149238 1519
+
+*equate entree_fb29 s4.24
+*fix entree_fb29 566216 149088 1610
 
 *include surveys/s1
 *include surveys/s2
