@@ -1,0 +1,46 @@
+*begin s18
+
+*title "FB25 - Méandre depuis carrefour avec la conduite forcée jusqu'à l'entrée ( Vincent + Florian Ballenegger, Michel Demierre - 31.08.2001 )"
+*date 2001.8.31
+*team MD-FB-GR compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.29
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.16 / Pt 8  -  Fin de la conduite forcée
+1	2	3.19	388.00	5.00
+2	3	11.35	6.00	14.00	; Stalactite 0.8 = bas bloqué !
+3	4	12.35	7.00	7.00	; Plafond salle
+4	5	7.90	1.00	5.00	; Au dessus puits
+5	6	3.40	2.00	9.00
+6	7	5.60	2.00	7.00	; Etroiture de Kit ou Double
+7	8	6.10	4.00	4.00
+8	9	4.35	39.00	-6.00	; La Tasse de T (carrefour)
+9	10	2.95	292.00	31.00	; Angle droit
+10	11	5.53	368.00	39.00	; Début du méandre miné
+11	12	3.63	302.00	24.00	; Après plaque
+12	13	2.08	223.00	13.00	; Départ méandre
+13	14	1.66	161.00	0.00	; Base puits
+14	15	12.40	161.00	100.00	; Entrée FB25
+
+*data passage station left right up down ignoreall
+1	1.00	0.10	0.50	1.00
+2	0.00	0.40	0.70	1.00
+3	0.40	0.15	0.30	0.80
+4	0.60	0.80	0.00	2.00
+5	0.35	0.10	0.20	0.80
+6	0.00	0.60	0.30	0.50
+7	0.00	0.30	0.30	0.50
+8	0.45	0.20	1.30	0.30
+9	0.60	0.00	0.50	0.30
+10	0.00	0.50	0.70	1.20
+11	0.00	0.60	0.80	1.20
+12	0.40	0.40	0.70	0.30
+13	0.50	0.00	0.70	0.70
+14	0.50	1.90	12.40	0.00
+15	0.30	0.50	0.00	0.00
+
+*end s18

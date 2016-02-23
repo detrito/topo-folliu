@@ -1,0 +1,50 @@
+*begin s43
+
+*title "Amont Vire Marteau - Escalade et remontée à droite de la Trisalle ( camp Folliu septembre 2003 )"
+*date 2003.9.5
+*team ???? compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.53
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.20 / Pt 14 - Base E5 dans Trisalle
+1	2	5.50	327.00	100.00
+2	3	2.71	327.00	57.00	; Noeud corde au plafond
+3	4	1.75	15.00	24.00	; Début méandre
+4	5	2.38	78.00	38.00
+5	6	3.80	20.00	30.00	; Point dans grande salle
+6	7	7.71	331.00	26.00	; Haut escalade
+7	8	1.40	331.00	0.00	; Bas corde
+8	9	8.00	331.00	100.00	; Noeud en Y avec vire P8
+9	10	5.34	292.00	29.00	; Fond salle
+10	11	10.98	295.00	39.00	; Méandre remontant
+11	12	1.51	295.00	100.00	; Haut R2
+12	13	3.00	270.00	64.00	; Haut R2 glissant car mondmilch
+13	14	2.67	263.00	48.00	; dans le mondmilch
+14	15	2.49	242.00	-19.00
+15	16	1.80	265.00	-4.00	; Salle
+16	17	5.00	94.00	-30.00	; Visée estimée dans méandre descendant
+
+*data passage station left right up down ignoreall
+1	1.20	1.00	6.00	1.10
+2	2.00	0.20	2.00	6.00
+3	3.00	0.60	1.50	3.00
+4	0.00	0.30	1.20	4.50
+5	0.40	0.10	1.10	2.00
+6	1.00	2.00	2.50	1.00
+7	1.00	0.90	4.00	3.00
+8	1.50	0.50	8.00	0.00
+9	0.40	0.50	1.00	8.00
+10	1.00	1.90	3.30	1.70
+11	0.20	0.40	2.50	0.00
+12	0.20	0.40	2.10	1.50
+13	0.80	0.40	0.50	1.90
+14	0.10	0.40	1.00	0.40
+15	0.50	0.50	0.50	0.20
+16	0.50	0.50	2.00	2.00
+17	0.40	0.40	2.00	0.00
+
+*end s43

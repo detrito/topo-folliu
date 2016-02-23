@@ -1,0 +1,22 @@
+*begin s32
+
+*title "Amont de Beaucu - Autre branche du Y dans la Galerie Florian ( Vincent + Florian Ballenegger - 21.08.2002 )"
+*date 2002.8.21
+*team FBalleneg compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.40
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.32 / Pt 5
+1	2	1.75	317.00	-19.00	; Autre branche du Y
+2	3	5.36	331.00	-17.00	; Grande salle
+
+*data passage station left right up down ignoreall
+1	1.00	0.00	3.00	6.00
+2	0.00	0.60	3.00	4.00
+3	0.70	3.50	7.00	0.00
+
+*end s32

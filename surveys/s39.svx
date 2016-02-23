@@ -1,0 +1,58 @@
+*begin s39
+
+*title "Aval - Boucle fossile jusqu'à la jonction avec réseau actif ( Vincent + Florian Ballenegger, Michel Demierre - 30.12.2002 )"
+*date 2002.12.30
+*team MDe - FBa compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.45
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.13 / Pt 18 - Base P9
+1	2	6.13	8.00	68.00
+2	3	1.60	15.00	-32.00
+3	4	4.60	64.00	-5.00
+4	5	1.50	362.00	-57.00	; Petite salle
+5	6	3.94	50.00	-23.00	; Cailloux milieu faille
+6	7	5.40	33.00	-40.00
+7	8	2.93	63.00	-12.00	; Amarages P4
+8	9	4.22	63.00	-100.00
+9	10	1.86	318.00	-3.00	; Sommet R2
+10	11	4.40	315.00	-68.00	; Salle déchiquetée
+11	12	3.42	188.00	-47.00
+12	13	1.22	80.00	-60.00	; Etroiture sommet Puits Sec (11m)
+13	14	11.04	80.00	-100.00
+14	15	2.80	159.00	-19.00
+15	16	2.71	70.00	-21.00	; Amarrages Puits de la Soif  (9m)
+16	17	8.94	70.00	-100.00	; Fractio  ( trou dans plaque silex )
+17	18	1.36	200.00	38.00
+18	19	6.48	204.00	-56.00	; Deuxième amarrage fractio
+19	20	10.62	239.00	-79.00	; Sommet dernier ressaut Puits du Mille-Feuille
+20	21	9.74	242.00	-48.00	; Gal.24 / Pt 4 - Sommet P6
+
+*data passage station left right up down ignoreall
+1	1.00	2.00	10.00	0.00
+2	0.20	0.90	1.00	1.50
+3	0.00	0.70	1.00	0.20
+4	1.00	0.30	1.00	1.60
+5	0.00	0.60	1.00	1.00
+6	0.40	0.40	1.50	2.00
+7	0.00	0.70	2.00	0.50
+8	0.40	0.10	2.00	4.20
+9	0.40	1.70	5.00	0.00
+10	0.80	0.00	0.90	1.50
+11	1.10	1.20	3.00	0.00
+12	2.00	0.00	1.00	0.30
+13	0.20	0.50	0.00	11.00
+14	0.60	3.30	11.00	0.00
+15	1.00	0.00	3.00	3.00
+16	0.00	2.00	3.00	8.00
+17	2.00	1.00	9.00	0.00
+18	3.50	2.50	1.50	1.50
+19	3.00	5.00	0.00	3.00
+20	1.50	2.50	1.00	3.00
+21	1.50	0.50	2.50	5.00
+
+*end s39

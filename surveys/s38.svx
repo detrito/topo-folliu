@@ -1,0 +1,22 @@
+*begin s38
+
+*title "FB29 - Cheminée sur méandre 1 en bas des Superlatifs ( Florian + Vincent Ballenegger, Michel Demierre, Jérôme Hottinger - 27.08.2002 )"
+*date 2002.8.27
+*team MD-FB-JH compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.41
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.35 / Pt 5 - Stalactite
+1	2	3.44	185.00	5.00	; Méandre
+2	3	3.43	220.00	35.00	; Arrivée d'eau
+
+*data passage station left right up down ignoreall
+1	2.50	0.60	6.00	1.00
+2	0.80	0.20	6.00	1.00
+3	1.20	1.50	6.00	1.00
+
+*end s38

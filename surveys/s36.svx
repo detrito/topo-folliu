@@ -1,0 +1,26 @@
+*begin s36
+
+*title "FB29 - Suite méandre 1 au bas du Puits des Superlatifs ( Florian + Vincent Ballenegger, Michel Demierre, Jérôme Hottinger - 27.08.2002 )"
+*date 2002.8.27
+*team MD-FB-JH compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.41
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.35 / Pt 4 - Pointe silex dans méandre
+1	2	2.24	35.00	-51.00	; Suite méandre après 2ème puits
+2	3	10.57	52.00	-10.00
+3	4	9.67	56.00	-8.00
+4	5	7.20	56.00	-100.00	; Grande plaque de lits de cherts inclinée
+
+*data passage station left right up down ignoreall
+1	0.20	0.50	8.00	6.00
+2	0.80	0.00	0.90	6.00
+3	0.00	0.40	1.20	0.90
+4	0.40	0.00	0.80	1.50
+5	0.50	0.50	8.00	3.00
+
+*end s36

@@ -1,0 +1,22 @@
+*begin s64
+
+*title "FB18 - Annexe sur cheminée du Méandre des Combatants jusqu'au fond du FB18  ( Pierre Beerli, Patrick Paquier - 04.04.1998 )"
+*date 1998.4.4
+*team P.Paquier compass clino tape
+*team P.Beerli notes
+
+*calibrate compass -0.14
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.63 / Pt 6
+1	2	3.50	280.00	71.00
+2	3	4.10	255.00	38.00	; Etroiture avec courant d'air aspirant
+
+*data passage station left right up down ignoreall
+1	1.50	1.50	8.00	2.50
+2	0.50	0.50	3.00	1.00
+3	0.10	0.10	0.20	0.30
+
+*end s64

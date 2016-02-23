@@ -1,0 +1,34 @@
+*begin s53
+
+*title "FB18 - Début du Méandre du Silex à la base des puits d'entrée ( Jacques Dutruit - 23.11.1997 )"
+*date 1997.11.23
+*team M.Demierre compass clino tape
+*team J.Dutruit notes
+
+*calibrate compass -0.26
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.50 / Pt 17
+1	2	3.47	178.00	-1.00
+2	3	0.90	232.00	1.00
+3	4	1.60	269.00	0.00
+4	5	5.35	260.00	1.00
+5	6	3.45	185.00	2.00
+6	7	1.30	150.00	0.00
+7	8	2.80	242.00	2.00
+8	9	2.65	170.00	15.00	; Départ galerie 54
+
+*data passage station left right up down ignoreall
+1	0.20	1.20	1.50	1.00
+2	0.20	0.15	1.50	0.90
+3	0.20	0.15	1.50	1.00
+4	0.20	0.15	1.50	1.00
+5	0.00	0.40	1.50	1.60
+6	0.35	0.00	1.50	1.60
+7	0.00	0.50	1.50	1.60
+8	0.00	0.40	2.00	1.60
+9	0.30	1.00	3.00	1.00
+
+*end s53

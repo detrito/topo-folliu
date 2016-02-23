@@ -1,0 +1,20 @@
+*begin s49
+
+*title "Visée 3 pour jonction entre le FB29 et le FB18  ->  NON TOPO CAR SEULEMENT POUR FAIRE LA JONCTION  ( août 2009 )"
+*date 2009.8.30
+*team GSL compass clino tape
+*team GSL notes
+
+*calibrate compass 1.32
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.48 / Pt 1
+1	2	35.20	65.00	4.00	; Départ galerie 50
+
+*data passage station left right up down ignoreall
+1	1.50	1.50	5.00	1.00
+2	0.00	0.80	0.30	0.70
+
+*end s49

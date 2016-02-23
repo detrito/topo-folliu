@@ -1,0 +1,78 @@
+*begin s14
+
+*title "Rivière du Beaucu ( Vincent + Florian Ballenegger, Gilles Rosselet - 28.08.2001 )"
+*date 2001.8.28
+*team GRo - FBa compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.29
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.9 / Pt 4  -  Fin de l'Anti-Chambre
+1	2	2.90	282.00	68.00	; En face de l'échelle
+2	3	4.44	343.00	51.00	; En hauteur
+3	4	1.91	291.00	9.00	; Sur paroi à droite
+4	5	1.85	364.00	-8.00	; Montée
+5	6	5.40	349.00	22.00	; Salle -> cheminée
+6	7	4.82	378.00	31.00	; Pointe Tintin
+7	8	4.80	305.00	53.00	; Avant salle
+8	9	6.39	379.00	24.00	; Début méandre
+9	10	1.25	28.00	3.00
+10	11	1.91	88.00	8.00	; Pointe dans tournant
+11	12	6.82	344.00	11.00	; Départ galerie 33 (boucle active) 
+12	13	3.10	251.00	31.00	; Visée dans salle (très haut)
+13	14	2.75	362.00	-2.00	; Elargissement
+14	15	3.04	344.00	-8.00	; Fond méandre
+15	16	2.19	278.00	-8.00	; Pointe avant salle
+16	17	4.29	313.00	2.00	; Après salle
+17	18	3.37	374.00	23.00	; Après élargissement
+18	19	4.46	335.00	42.00	; Point sur "oreille"
+19	20	4.28	340.00	54.00	; Sur ressaut
+20	21	2.56	6.00	40.00	; Sur petite salle
+21	22	2.65	22.00	35.00	; Dans méandre (70% roche, 30% terre)
+22	23	3.14	2.00	-6.00	; Veine début méandre
+23	24	4.56	350.00	4.00	; Arrivée galerie 34 (Boucle Salle de la Colonne)
+24	25	3.25	350.00	100.00	; Paroi haut ressaut
+25	26	2.78	341.00	16.00	; Paroi "cache-vue"
+26	27	4.36	271.00	41.00	; Départ galeries 20 et 31 - Base Puits Marteau (P6)
+27	28	5.55	271.00	100.00	; Haut corde (nœud amarrage Y)
+28	29	2.17	17.00	17.00	; Amarrage puits sur méandre
+29	30	7.23	397.00	27.00	; Mini-stalagmite départ galerie
+30	31	8.75	5.00	8.00	; Départ galeries 15 et 19  -  Carrefour Beaucu / FB25
+
+*data passage station left right up down ignoreall
+1	4.00	2.00	0.00	1.60
+2	0.00	0.30	3.00	4.00
+3	1.00	0.00	4.00	3.20
+4	0.00	0.70	4.00	2.00
+5	0.00	0.40	3.50	0.70
+6	0.50	0.00	4.00	0.50
+7	2.00	0.30	5.00	0.60
+8	0.00	1.20	0.60	0.70
+9	0.60	0.10	1.00	1.80
+10	0.00	0.20	1.40	2.20
+11	0.50	1.00	0.70	3.00
+12	1.50	0.00	3.50	3.00
+13	0.00	0.40	1.00	4.00
+14	0.20	1.00	4.00	4.00
+15	0.70	0.00	1.00	0.90
+16	0.40	0.15	2.00	1.30
+17	0.00	0.40	3.00	0.40
+18	0.50	0.80	2.50	0.70
+19	0.40	0.40	5.00	0.00
+20	0.20	1.00	8.00	4.00
+21	1.00	0.20	8.00	1.80
+22	1.00	1.00	8.00	3.00
+23	1.00	1.00	8.00	3.00
+24	1.00	0.00	8.00	3.00
+25	0.50	3.00	10.00	1.60
+26	0.00	2.00	8.00	1.60
+27	0.00	1.00	10.00	1.00
+28	3.00	1.00	5.00	1.50
+29	3.00	0.50	5.00	5.00
+30	3.00	0.00	5.00	5.00
+31	1.20	1.20	3.00	0.20
+
+*end s14

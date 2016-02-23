@@ -1,0 +1,46 @@
+*begin s42
+
+*title "Réseau Actif aval - Depuis le carrefour actif-fossile ( Florian + Vincent Ballenegger, Gilles Rosselet - 03.09.2003 )"
+*date 2003.9.3
+*team FBa - GRo compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.53
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.40 / Pt 8 - Carrefour réseaux actif-fossile
+1	2	9.60	163.00	-55.00
+2	3	4.25	118.00	-63.00	; Base R5
+3	4	1.22	188.00	-3.00	; Entrée du méandre
+4	5	3.28	250.00	-20.00	; Elargissement boueux
+5	6	2.71	251.00	-18.00	; Haut ressaut
+6	7	4.70	188.00	-62.00	; Début étroiture
+7	8	4.00	218.00	-42.00	; Amarrage après jonction avec rivière
+8	9	3.02	208.00	-12.00
+9	10	8.50	200.00	-63.00	; Base puits incliné  ( galerie phréatique )
+10	11	3.50	222.00	-31.00	; Amarrage sommet P4
+11	12	4.40	222.00	-100.00
+12	13	2.30	164.00	-17.00	; Amarrage sommet P8 incliné
+13	14	7.23	143.00	-64.00
+14	15	1.42	234.00	-30.00	; Départ galerie 45 ( Amarrage avant étroiture )
+
+*data passage station left right up down ignoreall
+1	0.40	0.40	0.50	0.50
+2	0.30	0.40	1.00	0.20
+3	0.10	0.70	6.00	4.00
+4	1.40	0.10	0.50	0.50
+5	0.10	0.45	0.80	3.10
+6	0.50	0.20	0.60	4.00
+7	0.20	0.50	0.00	1.20
+8	0.55	0.00	0.70	0.50
+9	0.10	0.30	0.60	3.00
+10	0.60	0.70	0.70	1.30
+11	0.20	0.50	0.20	4.50
+12	1.00	1.00	4.50	0.00
+13	0.70	1.00	5.00	0.00
+14	0.00	0.50	0.10	1.80
+15	0.50	0.00	0.40	1.40
+
+*end s42

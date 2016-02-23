@@ -1,0 +1,42 @@
+*begin s30
+
+*title "Amont de Beaucu - Méandre des Cristaux  ( Vincent + Florian Ballenegger - 20.08.2002 )"
+*date 2002.8.20
+*team FBalleneg compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.40
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.27 / Pt 2 - Base P6
+1	2	4.29	114.00	-26.00	; Bas pente
+2	3	1.05	190.00	41.00	; Dans virage
+3	4	0.72	255.00	0.00	; Suite du virage
+4	5	2.60	198.00	-7.00	; Pointe cassée
+5	6	1.65	126.00	-2.00	; Virage méandre
+6	7	1.94	182.00	-18.00
+7	8	1.08	150.00	10.00	; Paroi gauche
+8	9	2.51	164.00	-6.00
+9	10	3.91	156.00	-10.00
+10	11	3.28	170.00	-12.00	; Elargissement après départ
+11	12	3.80	170.00	-100.00	; Descente dans méandre
+12	13	3.16	196.00	-35.00	; Jonction Salle de la Colonne
+
+*data passage station left right up down ignoreall
+1	1.80	0.10	10.00	1.00
+2	0.90	0.10	3.00	1.10
+3	0.20	0.40	2.00	2.00
+4	0.40	0.10	1.00	2.00
+5	0.10	0.30	1.00	2.00
+6	0.10	0.40	0.10	2.00
+7	0.40	0.20	3.00	2.20
+8	0.00	0.50	3.50	1.50
+9	0.30	0.10	1.00	3.00
+10	0.00	1.00	0.10	3.50
+11	1.00	0.10	1.50	5.00
+12	0.40	0.40	4.00	3.00
+13	0.00	1.50	7.00	3.00
+
+*end s30

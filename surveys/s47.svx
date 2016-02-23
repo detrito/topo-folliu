@@ -1,0 +1,68 @@
+*begin s47
+
+*title "Galerie 1 pour jonction entre le FB29 et le FB18  ( F.Ballenegger, V.Ballenegger - 21.08.2009 )"
+*date 2009.8.21
+*team FBalleneg compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 1.18
+*units compass degrees
+*units clino degrees
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.35 / Pt 4
+1	2	2.71	304.00	-53.00	; Nœud amarrage P6
+2	3	0.00	46.00	0.00
+3	4	2.00	46.00	-12.00	; Autre côté P6
+4	5	0.00	46.00	0.00
+5	6	7.00	46.00	-12.00	; Bas belle stalactite
+6	7	8.13	52.00	1.00	; Mini stalactite
+7	8	5.22	44.00	-14.00	; Pointe roche au plafond
+8	9	5.74	45.00	2.00	; Etroiture avec cailloux
+9	10	0.00	45.00	0.00
+10	11	7.48	45.00	-9.00	; Pointe caillou
+11	12	2.84	40.00	-18.00	; Amarrage gauche sommet P6
+12	13	6.32	40.00	-90.00	; Base P6
+13	14	2.56	350.00	-22.00	; Départ galerie argileuse
+14	15	6.88	48.00	-9.00
+15	16	2.65	54.00	5.00	; Mini salle après ramping
+16	17	3.50	78.00	54.00	; Silex vers arrivée d'eau
+17	18	6.55	30.00	-31.00	; Silex avant méandre de graille
+18	19	1.50	4.00	-45.00	; Entrée méandre
+19	20	1.74	50.00	0.00
+20	21	2.10	62.00	-15.00
+21	22	2.00	63.00	32.00	; Salle concrétionnée
+22	23	5.45	43.00	2.00
+23	24	9.75	46.00	-3.00	; Suite du passage pas large
+24	25	6.20	43.00	4.00	; Sommet P8  ( nœud en Y )
+25	26	8.20	43.00	-90.00	; Départ galerie 48  ( Base P8 )
+
+*data passage station left right up down ignoreall
+1	3.00	0.60	15.00	2.00
+2	2.00	1.00	1.00	0.70
+3	0.50	1.00	1.00	6.00
+4	0.50	1.00	1.00	6.00
+5	0.50	0.70	1.00	0.70
+6	0.40	0.60	1.00	0.70
+7	0.40	0.50	0.40	6.00
+8	0.40	0.50	0.30	7.20
+9	0.00	0.40	0.50	5.00
+10	0.00	0.40	0.50	1.00
+11	0.20	0.60	1.00	1.00
+12	0.00	1.00	1.00	1.00
+13	2.00	0.50	7.30	0.00
+14	0.50	0.20	0.10	0.70
+15	0.50	0.20	0.20	0.40
+16	0.30	0.50	3.00	1.00
+17	0.60	0.10	0.50	1.50
+18	0.20	1.50	4.00	1.20
+19	0.10	0.30	0.30	0.40
+20	0.10	0.50	0.60	0.20
+21	0.50	0.70	1.60	0.20
+22	0.50	0.70	1.60	0.20
+23	0.50	0.40	1.00	1.60
+24	0.60	0.10	0.30	2.00
+25	0.60	0.60	2.00	1.50
+26	1.50	0.50	9.70	0.00
+
+*end s47

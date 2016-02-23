@@ -1,0 +1,149 @@
+*begin
+*title "RESEAU DU FOLLIU ( FOLLIU BORNA / FR )"
+
+*equate entree s1.0
+*fix entree 566187 149132 1611
+
+*include surveys/s1
+*include surveys/s2
+*include surveys/s3
+*include surveys/s4
+*include surveys/s5
+*include surveys/s6
+*include surveys/s7
+*include surveys/s8
+*include surveys/s9
+*include surveys/s10
+*include surveys/s11
+*include surveys/s12
+*include surveys/s13
+*include surveys/s14
+*include surveys/s15
+*include surveys/s16
+*include surveys/s17
+*include surveys/s18
+*include surveys/s19
+*include surveys/s20
+*include surveys/s21
+*include surveys/s22
+*include surveys/s23
+*include surveys/s24
+*include surveys/s25
+*include surveys/s26
+*include surveys/s27
+*include surveys/s28
+*include surveys/s29
+*include surveys/s30
+*include surveys/s31
+*include surveys/s32
+*include surveys/s33
+*include surveys/s34
+*include surveys/s35
+*include surveys/s36
+*include surveys/s37
+*include surveys/s38
+*include surveys/s39
+*include surveys/s40
+*include surveys/s41
+*include surveys/s42
+*include surveys/s43
+*include surveys/s44
+*include surveys/s45
+*include surveys/s46
+*include surveys/s47
+*include surveys/s48
+*include surveys/s49
+*include surveys/s50
+*include surveys/s51
+*include surveys/s52
+*include surveys/s53
+*include surveys/s54
+*include surveys/s55
+*include surveys/s56
+*include surveys/s57
+*include surveys/s58
+*include surveys/s59
+*include surveys/s60
+*include surveys/s61
+*include surveys/s62
+*include surveys/s63
+*include surveys/s64
+*include surveys/s65
+*include surveys/s66
+*include surveys/s67
+
+*equate s2.0 s1.27
+*equate s3.0 s2.13
+*equate s4.0 s3.12
+*equate s5.0 s4.32
+*equate s6.0 s3.12
+*equate s7.0 s2.13
+*equate s8.0 s7.6
+*equate s9.0 s8.8
+*equate s10.0 s8.10
+*equate s11.0 s8.2
+*equate s12.0 s11.7
+*equate s13.0 s12.14
+*equate s14.0 s9.5
+*equate s15.0 s14.31
+*equate s16.0 s15.5
+*equate s17.0 s16.9
+*equate s18.0 s16.9
+*equate s19.0 s14.31
+*equate s20.0 s14.27
+*equate s21.0 s15.3
+*equate s22.0 s13.19
+*equate s23.0 s13.19
+*equate s24.0 s23.21
+*equate s25.0 s15.5
+*equate s26.0 s25.11
+*equate s27.0 s19.10
+*equate s28.0 s27.9
+*equate s29.0 s27.11
+*equate s30.0 s27.3
+*equate s31.0 s14.27
+*equate s32.0 s31.6
+*equate s33.0 s14.12
+*equate s33.16 s9.5
+*equate s34.0 s15.2
+*equate s34.7 s14.24
+*equate s35.0 s3.10
+*equate s36.0 s35.5
+*equate s37.0 s35.7
+*equate s38.0 s35.6
+*equate s39.0 s13.19
+*equate s39.21 s24.5
+*equate s40.0 s24.34
+*equate s41.0 s40.16
+*equate s42.0 s40.9
+*equate s43.0 s20.15
+*equate s44.0 s8.2
+*equate s44.10 s11.4
+*equate s45.0 s42.15
+*equate s46.0 s45.5
+*equate s47.0 s35.5
+*equate s48.0 s47.26
+*equate s49.0 s48.2
+*equate s50.0 s49.2
+*equate s51.0 s50.7
+*equate s51.4 s50.10
+*equate s52.0 s51.2
+*equate s53.0 s50.18
+*equate s54.0 s53.9
+*equate s55.0 s54.7
+*equate s56.0 s55.11
+*equate s57.0 s50.18
+*equate s58.0 s57.14
+*equate s59.0 s58.9
+*equate s60.0 s59.2
+*equate s60.10 s57.14
+*equate s61.0 s59.8
+*equate s62.0 s61.10
+*equate s63.0 s61.3
+*equate s64.0 s63.7
+*equate s65.0 s58.6
+*equate s65.21 s63.9
+*equate s66.0 s65.11
+*equate s67.0 s65.15
+
+*end

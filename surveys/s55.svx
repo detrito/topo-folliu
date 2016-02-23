@@ -1,0 +1,44 @@
+*begin s55
+
+*title "FB18 - Galerie de la zone d'entrée ( Michel Demierre, Jacques Dutruit - 23.11.1997 )"
+*date 1997.11.23
+*team M.Demierre compass clino tape
+*team J.Dutruit notes
+
+*calibrate compass -0.26
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.54 / Pt 6
+1	2	1.70	298.00	2.00
+2	3	2.30	307.00	90.00
+3	4	3.75	307.00	52.00
+4	5	4.25	1.00	2.00
+5	6	1.75	356.00	100.00
+6	7	3.10	356.00	28.00
+7	8	3.00	376.00	100.00
+8	9	4.50	376.00	38.00
+9	10	1.25	337.00	42.00
+10	11	4.00	337.00	42.00	; Départ galerie 56  ( annexe )
+11	12	4.55	261.00	64.00
+12	13	3.85	242.00	35.00
+13	14	2.10	255.00	15.00	; Entrée du FB18
+
+*data passage station left right up down ignoreall
+1	0.50	0.00	1.50	0.50
+2	1.00	0.00	2.00	0.80
+3	4.00	1.00	1.20	0.00
+4	0.50	2.00	4.00	0.20
+5	0.50	1.50	4.00	1.00
+6	0.00	0.80	2.00	1.50
+7	0.00	0.50	1.60	1.00
+8	0.00	0.40	0.60	0.00
+9	0.00	0.70	0.40	1.60
+10	0.00	0.30	0.30	0.20
+11	1.00	1.00	2.50	0.30
+12	0.40	0.30	1.60	0.20
+13	0.50	0.00	0.50	0.30
+14	0.30	0.20	0.30	0.20
+
+*end s55

@@ -1,0 +1,44 @@
+*begin s12
+
+*title "Méandre aval jusqu'au sommet de la cascade de 5m ( Vincent + Florian Ballenegger, Michel Demierre, Gilles Rosselet - 11.02.2001 )"
+*date 2001.2.11
+*team MD-FB-GR compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.24
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.11 / Pt 6
+1	2	3.00	42.00	19.00	; Pointe plaque contre paroi gauche
+2	3	10.45	50.00	-15.00	; Paroi gauche après puits sous cheminée
+3	4	5.12	30.00	-34.00	; Super point topo de Florian
+4	5	2.62	30.00	-100.00
+5	6	3.50	30.00	-6.00
+6	7	3.00	45.00	-37.00	; Au dessus d'une mare
+7	8	1.60	20.00	-4.00	; Dans tournant
+8	9	2.45	140.00	-4.00	; Fin tournant (haut stalagmite)
+9	10	2.95	30.00	7.00	; Reprise de la direction
+10	11	2.13	0.00	-15.00	; Sur la draperie
+11	12	1.90	120.00	3.00	; Dernier point avant la corde
+12	13	4.25	60.00	2.00	; Nœud d'amarrage en Y
+13	14	3.00	60.00	-100.00	; Départ galerie 13  -  Base du P3
+
+*data passage station left right up down ignoreall
+1	0.00	0.90	4.00	1.00
+2	0.10	1.00	5.00	1.00
+3	0.00	0.80	0.60	3.00
+4	0.80	0.00	2.00	3.00
+5	0.00	0.50	6.00	3.00
+6	0.00	0.60	1.00	1.70
+7	0.40	0.00	2.00	0.80
+8	0.40	0.30	0.50	0.20
+9	0.20	0.80	2.00	1.50
+10	0.80	0.00	4.00	2.50
+11	0.00	0.80	2.00	1.55
+12	0.00	0.80	0.00	3.00
+13	0.20	0.70	1.00	3.00
+14	1.60	0.30	3.00	0.00
+
+*end s12

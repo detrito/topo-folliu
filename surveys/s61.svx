@@ -1,0 +1,36 @@
+*begin s61
+
+*title "FB18 - Méandre des Combatants  ( Jacques Demierre, Michel Demierre, Jérôme Hottinger - 28.02.1998 )"
+*date 1998.2.28
+*team M.Demierre compass clino tape
+*team J.Demierre notes
+
+*calibrate compass -0.15
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.59 / Pt 7
+1	2	7.50	244.00	-6.00
+2	3	1.80	242.00	0.00	; Départ galerie 63  ( cheminée )
+3	4	3.50	225.00	-7.00
+4	5	1.20	225.00	0.00
+5	6	3.65	262.00	7.00
+6	7	0.00	262.00	0.00	; Sommet P8
+7	8	3.70	225.00	-54.00
+8	9	3.35	225.00	-100.00	; Ressaut
+9	10	4.20	221.00	42.00	; Départ galerie 62
+
+*data passage station left right up down ignoreall
+1	0.50	0.50	0.50	1.00
+2	0.50	0.00	0.50	0.50
+3	0.50	0.20	0.00	0.80
+4	0.30	0.10	0.00	0.25
+5	0.20	0.40	0.40	0.20
+6	0.40	0.00	0.40	0.20
+7	0.40	0.00	0.40	5.00
+8	0.30	0.30	2.00	3.00
+9	0.30	0.30	5.00	0.00
+10	0.50	0.00	5.00	8.00
+
+*end s61

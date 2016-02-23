@@ -1,0 +1,20 @@
+*begin s5
+
+*title "FB29 - Visée vers orifice impénétrable à l'entrée ( Jacques + Michel Demierre, Jérôme Hottinger - 26.8.1999 )"
+*date 1999.8.26
+*team M.Demierre compass clino tape
+*team J.Demierre notes
+
+*calibrate compass 0.03
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.4 / Pt 31
+1	2	2.90	121.00	70.00	; Orifice impénétrable du FB29
+
+*data passage station left right up down ignoreall
+1	0.50	0.00	1.20	0.00
+2	0.00	1.50	2.00	1.50
+
+*end s5

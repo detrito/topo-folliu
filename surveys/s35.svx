@@ -1,0 +1,44 @@
+*begin s35
+
+*title "FB29 - Méandre 1 au bas du Puits des Superlatifs ( Florian + Vincent Ballenegger, Michel Demierre, Jérôme Hottinger - 27.08.2002 )"
+*date 2002.8.27
+*team MD-FB-JH compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.41
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.3 / Pt 9 - Bas puits méandre jonction FB28-FB29
+1	2	3.40	82.00	2.00	; Pointe caillou vers tente
+2	3	7.75	64.00	-4.00	; Entrée méandre latéral
+3	4	6.99	56.00	-8.00
+4	5	2.96	59.00	34.00	; Départ galeries 36 et 47 - Pointe silex dans méandre
+5	6	2.08	170.00	92.00	; Départ galerie 38 - Stalactite
+6	7	5.12	151.00	10.00	; Départ galerie 37 - Bas mur
+7	8	10.87	151.00	100.00	; Sommet cheminée
+8	9	1.20	274.00	1.00
+9	10	2.52	240.00	-33.00	; Après laminoir
+10	11	3.31	209.00	60.00	; Pointe sur R3
+11	12	4.65	278.00	-1.00	; Paroi droite (belle stalactite dans le méandre)
+12	13	8.80	201.00	47.00	; Derrière gros bloc
+13	14	5.46	99.00	-1.00	; Base cheminée de 6m
+
+*data passage station left right up down ignoreall
+1	1.00	1.00	10.00	0.30
+2	2.00	3.30	15.00	1.00
+3	0.10	0.40	2.50	1.30
+4	0.00	0.60	2.50	1.20
+5	0.20	0.50	8.00	6.00
+6	2.00	1.00	6.00	1.00
+7	0.70	1.00	8.00	0.00
+8	0.00	1.20	1.50	11.00
+9	0.00	1.00	1.90	0.70
+10	4.00	0.20	5.00	3.00
+11	1.00	2.00	5.00	5.00
+12	1.30	0.00	19.00	1.70
+13	3.00	0.00	17.00	1.00
+14	0.80	0.70	8.00	1.00
+
+*end s35

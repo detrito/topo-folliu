@@ -1,0 +1,44 @@
+*begin s59
+
+*title "FB18 - Depuis la Salle de l'Oubli jusqu'à la Perte de -130m ( Pierre Beerli, Patrick Paquier - 28.02.1998 )"
+*date 1998.2.28
+*team P.Paquier compass clino tape
+*team P.Beerli notes
+
+*calibrate compass -0.15
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.58 / Pt 8  ( Salle de l'Oubli )
+1	2	6.60	2.00	3.00	; Départ galerie 60  ( Shunt )
+2	3	5.85	363.00	-74.00
+3	4	16.50	210.00	-100.00	; Base du Puits des Pierres à Feux (P18)
+4	5	4.60	220.00	15.00
+5	6	4.10	225.00	6.00
+6	7	5.55	220.00	-54.00	; R5
+7	8	2.50	178.00	-45.00	; Départ galerie 61  ( Méandre des Combatants )
+8	9	3.70	160.00	-68.00	; Sommet R3
+9	10	3.20	159.00	-48.00	; Au dessus bassin
+10	11	3.90	78.00	-25.00	; Blocs
+11	12	2.60	69.00	-62.00
+12	13	4.50	160.00	-100.00
+13	14	4.00	48.00	-24.00	; Perte impénétrable
+
+*data passage station left right up down ignoreall
+1	0.80	3.20	9.70	1.50
+2	0.00	2.00	8.00	5.60
+3	3.00	1.00	6.00	18.00
+4	3.00	2.00	25.00	1.70
+5	0.70	0.70	3.00	1.70
+6	0.50	3.00	2.00	6.00
+7	1.00	2.00	6.00	4.00
+8	1.50	2.00	3.00	3.00
+9	0.60	0.80	1.00	3.50
+10	1.30	0.50	0.50	1.70
+11	0.10	0.20	1.00	4.00
+12	0.40	0.40	1.70	6.00
+13	0.30	0.50	6.00	1.20
+14	0.10	0.10	1.10	0.00
+
+*end s59

@@ -1,0 +1,20 @@
+*begin s17
+
+*title "FB25 - Aval méandre depuis le carrefour avec la conduite forcée ( Vincent + Florian Ballenegger, Michel Demierre - 31.08.2001 )"
+*date 2001.8.31
+*team MD-FB-GR compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.29
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.16 / Pt 8  -  Fin de la conduite forcée
+1	2	5.91	202.00	22.00	; Bel élargissement à désobstruer
+
+*data passage station left right up down ignoreall
+1	0.10	1.00	0.50	1.00
+2	1.00	0.00	7.00	1.80
+
+*end s17

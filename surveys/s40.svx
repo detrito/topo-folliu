@@ -1,0 +1,62 @@
+*begin s40
+
+*title "Aval - Depuis base Puits Contrebasse et début réseau fossile ( Vincent Ballenegger, Michel Demierre, Jérôme Perrin - 26.08.2003 )"
+*date 2003.8.26
+*team MDe - JPe compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.53
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.24 / Pt 33 - Base Puits de la Contrebasse
+1	2	11.63	152.00	-68.00	; Fractio
+2	3	8.65	152.00	-100.00	; Base Puits de l'Optimiste  (19m)
+3	4	3.56	155.00	1.00
+4	5	1.69	138.00	-65.00
+5	6	6.26	138.00	-100.00	; Base P7  ( beau palier )
+6	7	4.60	188.00	-15.00	; Sommet Puits du Méandre  (18m)
+7	8	17.30	188.00	-100.00
+8	9	4.85	161.00	-51.00	; Départ galerie 42  ( carrefour Actif - Fossile )
+9	10	6.24	145.00	27.00
+10	11	3.48	177.00	6.00	; Sommet Puits Zip-Boum  (8m)
+11	12	1.89	245.00	-29.00
+12	13	8.90	190.00	-48.00
+13	14	9.53	134.00	-55.00	; Fractio fin de la pente
+14	15	4.41	134.00	-100.00	; Base Puits de l'Arbalète  (12m)
+15	16	1.20	34.00	32.00	; Départ galerie 41
+16	17	5.08	187.00	-39.00	; Sommet Puits Schuss  (18m)
+17	18	18.08	191.00	-55.00
+18	19	2.95	187.00	-50.00	; Sommet Pincement 1  ( P3 )
+19	20	8.10	181.00	-47.00
+20	21	5.00	175.00	-57.00	; Sommet Puits de la Faim  (8m)
+21	22	9.40	172.00	-56.00
+22	23	4.90	221.00	-34.00	; Bouchon d'argile
+
+*data passage station left right up down ignoreall
+1	4.00	3.00	0.20	2.20
+2	2.00	4.00	0.00	8.65
+3	1.90	4.00	8.65	0.30
+4	0.30	3.90	1.00	7.00
+5	0.80	3.90	1.00	6.26
+6	1.90	2.20	5.00	1.80
+7	3.00	1.00	4.00	17.30
+8	0.60	2.00	17.00	1.30
+9	0.40	0.40	0.50	0.50
+10	0.40	1.20	5.80	1.00
+11	0.00	1.20	6.00	0.70
+12	0.20	0.60	1.00	4.00
+13	1.10	0.40	0.40	1.70
+14	1.70	0.20	0.50	4.40
+15	0.50	2.20	4.00	0.90
+16	1.00	0.00	0.80	1.00
+17	0.10	1.00	2.00	1.00
+18	0.00	0.10	1.50	1.50
+19	1.00	0.10	2.00	1.70
+20	0.50	0.00	0.50	5.00
+21	0.50	0.00	1.50	2.00
+22	0.00	1.50	4.00	1.50
+23	0.80	0.50	0.70	0.50
+
+*end s40

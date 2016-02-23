@@ -1,0 +1,22 @@
+*begin s21
+
+*title "Série temporaire à la base Puits J-1 ( Vincent + Florian Ballenegger, Elizabeta Cavar - 29.10.2001 )"
+*date 2001.10.29
+*team ECa - FBa compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.30
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.15 / Pt 2  -  Base Puits J-1
+1	2	3.10	204.00	1.00	; Départ galerie
+2	3	4.50	352.00	5.00	; Point dans le T
+
+*data passage station left right up down ignoreall
+1	1.80	0.10	1.50	1.00
+2	6.00	1.80	0.50	0.10
+3	1.00	0.20	0.70	0.20
+
+*end s21

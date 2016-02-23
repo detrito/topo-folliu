@@ -1,0 +1,46 @@
+*begin s20
+
+*title "Galerie de la Vire Marteau ( Vincent + Florian Ballenegger, Elizabeta Cavar - 29.10.2001 )"
+*date 2001.10.29
+*team ECa - FBa compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.30
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.14 / Pt 26 - Base Puits Marteau (P6)
+1	2	1.80	290.00	0.00	; Bas corde arrosée
+2	3	7.38	98.00	100.00	; Sommet puits (amarrage à dédoubler !)
+3	4	0.80	98.00	35.00	; Entrée galerie
+4	5	6.35	98.00	22.00	; Fin passage dangereux
+5	6	5.92	221.00	10.00	; Méandre tombe en puits - Début jolie galerie
+6	7	3.60	224.00	2.00	; Fin jolie galerie (méandre en trou de serrure)
+7	8	5.20	243.00	-10.00	; Avant salle terreuse
+8	9	3.60	284.00	3.00	; Départ d'une conduite avec mondmilch
+9	10	3.73	242.00	-8.00	; Départ d'un passage impénétrable
+10	11	0.27	242.00	-100.00	; Fin étroiture
+11	12	8.10	267.00	-1.00	; Départ d'une galerie avec courant d'air
+12	13	3.38	295.00	0.00
+13	14	5.92	229.00	-1.00	; Pointe cailloux dans Trisalle
+14	15	5.60	340.00	9.00	; Départ galerie 43
+
+*data passage station left right up down ignoreall
+1	0.00	1.00	10.00	1.00
+2	1.00	3.00	10.00	1.00
+3	2.00	0.00	6.00	7.00
+4	1.10	0.00	1.50	0.60
+5	0.00	1.20	0.50	6.00
+6	0.10	1.20	0.80	2.00
+7	0.00	0.40	0.80	1.50
+8	0.20	0.40	1.20	0.60
+9	0.60	0.00	1.20	1.20
+10	0.40	1.20	0.50	0.60
+11	0.40	1.00	0.30	0.40
+12	0.00	0.90	1.00	0.70
+13	0.60	0.00	0.80	0.40
+14	1.00	2.00	3.00	0.10
+15	1.20	1.00	6.00	1.10
+
+*end s20

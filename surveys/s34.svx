@@ -1,0 +1,30 @@
+*begin s34
+
+*title "Rivière de Beaucu - Boucle par la Salle de la Colonne ( Vincent + Florian Ballenegger, Michel Demierre - 03.08.2002 )"
+*date 2002.8.3
+*team MDe - FBa compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.39
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.15 / Pt 1 - Lame sur Puits de la Colonne
+1	2	1.83	278.00	-18.60	; Sommet Puits de la Colonne (P9)
+2	3	13.50	161.00	-64.00	; A côté colonne
+3	4	3.53	310.00	-42.50	; Méandre Beaucu
+4	5	3.71	174.00	-52.00	; Entrée "fenêtre"
+5	6	4.20	235.00	22.00
+6	7	2.75	180.00	-38.00	; Gal.14 / Pt 23 - Gros bloc
+
+*data passage station left right up down ignoreall
+1	4.00	0.00	2.00	1.50
+2	4.00	0.00	2.00	15.00
+3	1.20	3.00	3.00	2.20
+4	1.10	0.10	12.00	0.20
+5	1.00	0.40	0.50	0.60
+6	1.10	0.00	5.50	1.70
+7	2.00	1.80	5.00	1.20
+
+*end s34

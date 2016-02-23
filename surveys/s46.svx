@@ -1,0 +1,46 @@
+*begin s46
+
+*title "Réseau Actif aval - Suite  ( Florian Ballenegger, Vincent Ballenegger, Jacques Demierre, Michel Demierre, Jérôme Hottinger - 23.08.2004 )"
+*date 2004.8.23
+*team FBa-MDe compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.66
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.45 / Pt 4
+1	2	0.98	365.00	0.00	; Amarrage de droite
+2	3	2.61	365.00	-100.00
+3	4	1.24	130.00	13.00	; Amarrage P4
+4	5	5.84	95.00	-62.00
+5	6	3.61	105.00	-42.00	; Virage à droite
+6	7	3.80	191.00	-18.00
+7	8	1.90	200.00	-23.00	; Amarrage P5 incliné
+8	9	5.48	167.00	-59.00	; Amarrage P8 incliné
+9	10	9.07	170.00	-68.00	; Sommet Puits de l'Hippocampe (P4)
+10	11	4.41	170.00	-100.00	; Base puits
+11	12	9.35	90.00	-41.00	; Base R4 et petite salle
+12	13	5.10	41.00	-18.00	; Virage à droite
+13	14	5.53	121.00	-54.00	; Base R3
+14	15	1.95	88.00	-28.00	; Amarrage P4
+
+*data passage station left right up down ignoreall
+1	2.00	1.00	5.00	0.00
+2	0.80	0.10	0.10	3.70
+3	0.50	0.50	2.60	1.10
+4	0.70	0.50	0.30	4.00
+5	0.00	0.50	0.10	1.60
+6	0.30	0.90	1.00	0.50
+7	0.00	0.40	0.50	0.50
+8	0.50	1.20	0.50	5.00
+9	0.20	0.70	0.50	8.00
+10	1.30	0.00	3.00	2.00
+11	0.70	0.70	4.00	0.00
+12	0.50	0.50	2.00	0.50
+13	0.10	0.50	0.50	2.00
+14	0.10	0.60	0.60	0.40
+15	1.00	0.30	0.00	4.00
+
+*end s46

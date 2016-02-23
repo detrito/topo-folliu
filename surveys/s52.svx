@@ -1,0 +1,20 @@
+*begin s52
+
+*title "FB18 - Annexe sur boucle dans l'Amont du Méandre du Silex ( Michel Demierre, Jérôme Perrin - 24.08.1998 )"
+*date 1998.8.24
+*team M.Demierre compass clino tape
+*team J.Perrin notes
+
+*calibrate compass -0.13
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.51 / Pt 1
+1	2	3.20	239.00	47.00
+
+*data passage station left right up down ignoreall
+1	0.40	0.50	0.30	0.50
+2	0.60	0.20	0.20	0.60
+
+*end s52

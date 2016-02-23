@@ -1,0 +1,50 @@
+*begin s25
+
+*title "FB47 - Depuis le sommet du Puits J-1 jusqu'à l'entrée  ( Vincent + Florian Ballenegger - 20.08.2002 )"
+*date 2002.8.20
+*team FBalleneg compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.40
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.15 / Pt 4 - Vers sommet Puits J-1
+1	2	1.56	10.00	-1.00
+2	3	3.18	372.00	28.00
+3	4	6.40	372.00	100.00
+4	5	1.93	38.00	6.00
+5	6	5.45	38.00	100.00	; Sommet P5
+6	7	1.40	255.00	9.00
+7	8	0.90	185.00	0.00
+8	9	4.42	185.00	100.00	; Sommet P4
+9	10	1.45	189.00	45.00
+10	11	5.85	50.00	37.00	; Départ galerie 26 - Jonction 3 cheminées
+11	12	1.70	3.00	20.00	; Bas corde
+12	13	4.65	3.00	100.00	; Sommet P5
+13	14	0.47	265.00	0.00	; Sur plate forme
+14	15	0.90	265.00	100.00	; Entrée tunnel de désobstruction
+15	16	2.27	394.00	9.00	; Sortie tunnel de désobstruction
+16	17	2.87	30.00	21.00	; Entrée FB47 (cailloux)
+
+*data passage station left right up down ignoreall
+1	0.30	1.00	1.00	1.50
+2	0.90	0.50	1.00	1.50
+3	0.50	0.10	6.40	1.50
+4	0.80	3.10	3.00	7.00
+5	1.90	0.20	5.00	0.50
+6	0.50	0.60	0.00	6.00
+7	0.00	1.00	4.00	0.40
+8	0.40	0.60	5.42	3.00
+9	0.00	1.00	1.00	7.00
+10	1.00	0.00	0.80	0.80
+11	1.10	1.20	0.80	1.00
+12	0.20	0.60	4.70	0.60
+13	0.50	0.10	0.50	5.00
+14	0.40	0.10	0.90	0.70
+15	0.40	0.00	0.20	1.70
+16	0.00	0.70	2.00	1.00
+17	0.70	0.10	0.00	1.60
+
+*end s25

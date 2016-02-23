@@ -1,0 +1,34 @@
+*begin s16
+
+*title "FB25 - Zone de la conduite forcée  ( Vincent + Florian Ballenegger, Michel Demierre - 31.08.2001 )"
+*date 2001.8.31
+*team MD-FB-GR compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.29
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.15 / Pt 4
+1	2	4.22	371.00	36.00	; Sur colonne cheminée +8m
+2	3	2.92	46.00	-15.00	; Pointe sur plafond
+3	4	2.07	126.00	-41.00	; Glaise
+4	5	3.65	58.00	-27.00	; Pointe fin plaque
+5	6	2.05	22.00	10.00	; Petite cheminée
+6	7	4.10	63.00	-11.00	; Début de la conduite forcée dite "Le Tube"
+7	8	4.55	106.00	-38.00	; Tournant
+8	9	4.05	60.00	-26.00	; Départ galeries 17+18  -  Fin de la conduite forcée
+
+*data passage station left right up down ignoreall
+1	0.30	1.00	1.00	1.50
+2	0.60	0.40	0.20	0.50
+3	0.40	0.60	0.10	0.40
+4	0.60	0.00	0.30	0.50
+5	0.10	0.80	0.05	0.20
+6	0.20	1.00	0.00	0.40
+7	0.20	0.30	0.00	0.40
+8	0.40	0.00	0.20	0.20
+9	0.30	0.30	0.30	0.30
+
+*end s16

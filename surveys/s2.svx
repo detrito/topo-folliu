@@ -1,0 +1,42 @@
+*begin s2
+
+*title "FB28 - Suite jusqu'au Puits Boum-Boum ( Vincent Ballenegger, Michel Demierre - 13.05.2001 )"
+*date 2001.5.13
+*team M.Demierre compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.27
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.1 / Pt 26  -  Pointe silex sur puits
+1	2	1.16	104.00	-3.00	; Etroiture sommet toboggan
+2	3	9.26	96.00	-48.00
+3	4	5.32	105.00	-65.00	; Début Méandre Tequila
+4	5	3.37	168.00	-17.00	; Tournant
+5	6	2.79	41.00	2.00	; Au bout grande plaque
+6	7	2.85	86.00	-27.00	; Après cailloux de Michel
+7	8	4.20	81.00	-42.00
+8	9	2.55	58.00	-36.00
+9	10	6.90	75.00	-39.00	; Fin étroiture après traversée salle
+10	11	5.05	103.00	-26.00	; Méandre au sommet Puits Boum-Boum
+11	12	1.61	78.00	-8.00
+12	13	9.55	78.00	-100.00	; Départ galeries 3 + 7  -  Base Puits Boum-Boum
+
+*data passage station left right up down ignoreall
+1	0.50	0.10	2.00	1.00
+2	0.40	0.00	2.00	1.00
+3	0.40	0.00	1.50	0.00
+4	0.40	0.10	0.50	1.00
+5	0.80	0.00	0.80	1.00
+6	0.50	0.00	0.30	0.40
+7	0.50	0.10	0.40	0.50
+8	0.00	0.50	0.40	0.40
+9	0.50	0.50	0.50	0.50
+10	0.00	0.70	1.20	0.40
+11	0.20	0.10	0.50	0.60
+12	0.00	2.00	0.10	0.00
+13	1.50	1.50	8.50	1.00
+
+*end s2

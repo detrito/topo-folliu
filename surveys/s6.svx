@@ -1,0 +1,20 @@
+*begin s6
+
+*title "FB29 - Base Puits des Superlatifs ( Jacques + Michel Demierre, Jérôme Hottinger - 26.8.1999 )"
+*date 1999.8.26
+*team M.Demierre compass clino tape
+*team J.Demierre notes
+
+*calibrate compass 0.03
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.4 / Pt 0
+1	2	4.00	210.00	-70.00
+
+*data passage station left right up down ignoreall
+1	5.00	5.00	4.00	0.00
+2	3.00	3.00	5.00	0.00
+
+*end s6

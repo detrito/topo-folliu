@@ -1,0 +1,26 @@
+*begin s45
+
+*title "Réseau Actif aval - Suite du Réseau  ( Florian Ballenegger, Jacques Demierre, Michel Demierre, Gilles Rosselet - 25.07.2004 )"
+*date 2004.7.25
+*team JDE-MD-GR compass clino tape
+*team FBalleneg notes
+
+*calibrate compass 0.65
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.42 / Pt 14
+1	2	4.55	209.00	-59.00	; Sommet Puits de la Fontaine (P9 incliné)
+2	3	6.65	110.00	-61.00	; Sommet P8 + P15 inclinés
+3	4	13.24	125.00	-80.00	; Départ à explorer
+4	5	10.46	145.00	-80.00	; Base Puits Fourchu (P15) et petit Lac
+
+*data passage station left right up down ignoreall
+1	0.50	0.00	0.40	1.40
+2	2.50	0.50	0.00	1.00
+3	2.50	0.50	0.00	1.00
+4	0.50	2.50	0.00	5.00
+5	2.00	1.00	5.00	0.00
+
+*end s45

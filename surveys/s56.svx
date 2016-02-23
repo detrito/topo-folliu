@@ -1,0 +1,22 @@
+*begin s56
+
+*title "FB18 - Annexe près de l'entrée ( Michel Demierre, Jacques Dutruit - 23.11.1997 )"
+*date 1997.11.23
+*team M.Demierre compass clino tape
+*team J.Dutruit notes
+
+*calibrate compass -0.26
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.55 / Pt 10
+1	2	2.40	57.00	-2.00
+2	3	1.70	360.00	-2.00
+
+*data passage station left right up down ignoreall
+1	1.00	1.00	2.50	0.30
+2	0.30	0.40	1.40	0.10
+3	0.10	0.10	0.80	0.00
+
+*end s56

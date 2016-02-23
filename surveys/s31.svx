@@ -1,0 +1,32 @@
+*begin s31
+
+*title "Amont de Beaucu - Galerie Florian ( Vincent + Florian Ballenegger - 21.08.2002 )"
+*date 2002.8.21
+*team FBalleneg compass clino tape
+*team VBalleneg notes
+
+*calibrate compass 0.40
+*units compass grads
+*units clino grads
+
+*data normal from to tape compass clino
+0	1	0.00	0.00	0.00	; Gal.14 / Pt 26 - Base Puits Marteau (P6)
+1	2	2.30	332.00	22.00	; Base corde méandre-tube
+2	3	7.87	332.00	100.00	; Haut corde
+3	4	1.45	370.00	35.00	; Début tube-méandre
+4	5	5.91	262.00	22.00
+5	6	1.64	317.00	15.00	; Départ galerie 32
+6	7	3.07	259.00	-26.00
+7	8	2.47	234.00	-23.00	; Base du P3
+
+*data passage station left right up down ignoreall
+1	0.00	1.00	8.00	0.80
+2	1.00	1.00	10.00	1.00
+3	0.00	1.00	0.70	8.00
+4	0.80	0.00	0.50	0.70
+5	0.30	0.30	0.80	0.60
+6	1.00	0.00	2.00	6.00
+7	0.70	0.00	3.50	4.50
+8	0.70	0.20	4.00	0.00
+
+*end s31
