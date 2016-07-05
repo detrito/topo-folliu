@@ -1,20 +1,24 @@
 *begin
 *title "RESEAU DU FOLLIU ( FOLLIU BORNA / FR )"
 
+; coordinate system CH1903+_LV95 fot both input and output
+*cs EPSG:2056
+*cs out EPSG:2056
+
 *equate entree_fb28 s1.0
-*fix entree_fb28 566187 149132 1611
+*fix entree_fb28 2566187 1149132 1611
 
 *equate entree_fb25 s18.15
-*fix entree_fb25 566198	149262 1585
+*fix entree_fb25 2566198 1149262 1585
 
 *equate entree_fb47 s25.17
-*fix entree_fb47 566191 149206 1598
+*fix entree_fb47 2566191 1149206 1598
 
 *equate entree_fb18 s55.14
-*fix entree_fb18 566408 149238 1519
+*fix entree_fb18 2566408 1149238 1519
 
 *equate entree_fb29 s4.24
-*fix entree_fb29 566216 149088 1610
+*fix entree_fb29 2566216 1149088 1610
 
 *include surveys/s1
 *include surveys/s2
