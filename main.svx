@@ -1,5 +1,7 @@
 *begin
+
 *title "RESEAU DU FOLLIU ( FOLLIU BORNA / FR )"
+*copyright 2016 AFB
 
 ; coordinate system CH1903+_LV95 fot both input and output
 *cs EPSG:2056
