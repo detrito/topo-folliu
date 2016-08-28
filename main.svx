@@ -90,6 +90,7 @@
 *include surveys/s66
 *include surveys/s67
 *include surveys/s68
+*include surveys/s69
 
 *equate s2.0 s1.27
 *equate s3.0 s2.13
@@ -165,5 +166,6 @@
 *equate s66.0 s65.11
 *equate s67.0 s65.15
 *equate s68.11 s20.2
+*equate s69.1 s14.7
 
 *end

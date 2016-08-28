@@ -1,0 +1,46 @@
+*begin s69
+
+*title "Cheminée Marmotte"
+; FIXME date
+*date 2015.8.15
+; FIXME team
+*team Jaques Demierre compass clino tape
+*team Gilles Rosselet notes
+
+; FIXME calibration
+*calibrate compass 1.8
+*units compass degrees
+*units clino degrees
+*data normal from to tape compass clino
+0	1	0	0	0	;	Pt topo lame silex 45° boucle fossile
+1	2	5.6	164	-16	;	En face cheminée
+2	3	5.76	41	59	;	Haut escalade, avant mur (1m)
+3	4	4.62	9.5	1	;	Bas corde
+4	5	9.92	9.5	90	;	Haut corde
+5	6	6.91	118	45.5	;	Cailloux entre salles
+6	7	12.93	276	41	;	Haut rampe, bifurcation, mausolée marmotte
+7	8	6.17	153.5	23.5	;	Bas puits entre deux ressauts
+8	9	7.39	44.5	60	;	Près amarrage, 2ième ressaut
+9	10	3.68	352	0	;	Base puits
+10	11	11.7	352	90	;	Fractio
+11	12	2.33	183	56	;	Sous fractio
+12	13	3.76	183	90	;	Haut puit -> bas méandre
+13	14	5.76	325	80	;	Amarrage fin escalade
+
+*data passage station left right up down ignoreall
+1	1.5	0	6	1.3
+2	0.8	0	12	3
+3	1.8	1.2	10	0
+4	1	0	5	10
+5	1.1	1.5	2.5	2
+6	2	0	9	1.7
+7	1.8	0	12	1.5
+8	1.8	0	7	6
+9	1.3	2	0	0
+10	2	1.5	0	0
+11	0.5	0	0	0
+12	0.6	0	0	0
+13	0.5	0	1.2	0
+
+
+*end s69
