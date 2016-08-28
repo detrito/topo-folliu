@@ -1,0 +1,28 @@
+*begin s70
+
+*title "Bifurcation cheminée Marmotte"
+; FIXME date
+*date 2015.8.15
+; FIXME team
+*team Jaques Demierre compass clino tape
+*team Gilles Rosselet notes
+
+; FIXME calibration
+*calibrate compass 1.8
+*units compass degrees
+*units clino degrees
+*data normal from to tape compass clino
+
+*data normal from to tape compass clino
+0	1	0	0	0	;	Haut rampe, bifurcation, mausolée marmotte pt7
+1	2	1.95	223	0	;	Bas puits
+2	3	5.6	223	90	;	Haut puits marmotte
+3	4	8.52	281.5	39	;	Silex dans méandre, début passage au plafond
+
+*data passage station left right up down ignoreall
+1	-	-	-	-
+2	3	2	7	1.6
+3	0	2	2	-
+4	-	-	-	-
+
+*end s70
