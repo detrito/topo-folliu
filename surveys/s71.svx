@@ -1,0 +1,54 @@
+*begin s71
+
+; FIXME nom galerie
+*title "Galerie Marmotte-Superlatifs"
+*date 2015.11.14
+
+*team Jacques Demierre compass clino tape
+*team Assez notes
+
+; FIXME calibration
+*calibrate compass 0
+*units compass degrees
+*units clino degrees
+*instrument compass "Suunto Tandem GSL 6"
+*instrument clino "Suunto Tandem GSL 6"
+
+*data normal from to tape compass clino
+0	1	25.30	345	59
+1	2	7.36	335	34
+2	3	7.10	321	22
+3	4	7.08	355	43
+4	5	2.66	305	31
+5	6	4.90	315	41
+6	7	2.82	311	13
+7	8	5.73	343	30
+8	9	5.58	305	35
+9	10	7.60	341	16
+10	11	4.35	262	46
+11	12	5.30	310	20
+12	13	1.72	320	-2
+13	14	3.19	302	-1
+14	15	6.45	323	30
+15	16	11.70	270	44
+
+*data passage station left right up down ignoreall
+0	2	5	6	2	;	pt devant tente, sur caillou ou est coincée la corde des couennes
+1	0.7	0	1	0.7	;	~1m avant fractio
+2	1.5	0	4	1.5	;	sur paroi droite
+3	0.5	0.7	5	0.5	;	petit bequet paroi gauche, en bas ressaut
+4	2	0	6	2	;	paroi droit, à 3m de l‘os
+5	2	0	6	2	;	paroi droite, silex
+6	0	0.4	3	0	;	paroi gauche, haut de la rampe silex qui pisse
+7	0	0.6	1.5	0	;	paroi gauche
+8	1.5	0	5	1.5	;	paroi droite, bas cheminée escaladée
+9	0	1	0.6	0	;	paroi gauche
+10	3	1	7	3	;	bas de la corde de cheminée dans salle
+11	0	0.3	1	0	;	haut du resseau, entrée etroite
+12	0	0.3	0.3	0	;	dans tube
+13	0	0.8	0.3	0	;	dans tube
+14	0	5	2	0	;	dans salle pipi sur rampe
+15	1.5	0.3	0.5	1.5	;	haut du ruisseau, côté réseau
+16	0	2	5	0	;	paroi droite, vers tombeau marmotte, en haut du noeud ammarage
+
+*end s71
