@@ -7,20 +7,23 @@
 *cs EPSG:2056
 *cs out EPSG:2056
 
-*equate entree_fb28 s1.0
-*fix entree_fb28 2566187 1149132 1611
+*equate entree_FB28_Ressauts s1.0
+*fix entree_FB28_Ressauts 2566187 1149132 1611
 
-*equate entree_fb25 s18.15
-*fix entree_fb25 2566198 1149262 1585
+*equate entree_FB25_Trilogie s18.15
+*fix entree_FB25_Trilogie 2566198 1149262 1585
 
-*equate entree_fb47 s25.17
-*fix entree_fb47 2566191 1149206 1598
+*equate entree_FB47_Voie_Lactee s25.17
+*fix entree_FB47_Voie_Lactee 2566191 1149206 1598
 
-*equate entree_fb18 s55.14
-*fix entree_fb18 2566408 1149238 1519
+*equate entree_FB18_Chenalette s55.14
+*fix entree_FB18_Chenalette 2566408 1149238 1519
 
-*equate entree_fb29 s4.24
-*fix entree_fb29 2566216 1149088 1610
+*equate entree_FB29_Couennes s4.34
+*fix entree_FB29_Couennes 2566216 1149088 1610
+
+*equate entree_FB15_St_Barbe s73.0
+; FIXME add coordinates
 
 *include surveys/s1
 *include surveys/s2
@@ -93,6 +96,8 @@
 *include surveys/s69
 *include surveys/s70
 *include surveys/s71
+*include surveys/s72
+*include surveys/s73
 
 *equate s2.0 s1.27
 *equate s3.0 s2.13
@@ -172,5 +177,7 @@
 *equate s70.1 s69.7
 *equate s71.0 s4.1
 *equate s71.16 s69.7
+*equate s72.0 s71.8
+*equate s73.14 s69.11
 
 *end
