@@ -1,0 +1,37 @@
+*begin s72
+
+; FIXME nom galerie
+*title "Cheminée pt8"
+*date 2015.11.14
+
+*team Jacques Demierre compass clino tape
+*team Assez notes
+
+; FIXME calibration
+*calibrate compass 0
+*units compass degrees
+*units clino degrees
+*instrument compass "Suunto Tandem GSL 6"
+*instrument clino "Suunto Tandem GSL 6"
+
+*data normal from to tape compass clino
+0	1	1.33	200	0
+1	2	7.59	0	90
+2	3	3.27	342	20
+3	4	4.64	332	51
+4	5	3.57	32	58
+5	6	4.00	205	59
+6	7	2.92	10	49
+7	8	3.50	100	83
+
+*data passage station left right up down ignoreall
+1	1.2	0.3	-	1,6	;	Corde
+2	0.7	1	2	9	;	Haut P9
+3	1.4	0	3	1.8	;	Ponk sur séparation
+4	1	1.6	5	6	;	Fractio
+5	1.6	0	3	1.5	;	Margelle en silex
+6	0	2	5	5	;	Margelle départ pt méandre
+7	0	1	4	1.8	;	Bas escalede autre méandre
+8	0.3	0	3	1.6	;	Entrée pt salle suspendue
+
+*end s72
