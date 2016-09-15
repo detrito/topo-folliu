@@ -1,0 +1,50 @@
+*begin s73
+
+*title "Entrée St.Barbe"
+*date 2016.06.16
+
+*team Florian Ballenegger compass
+*team Anne-Cécile Ballenegger clino tape
+*team Luca Guglielmetti notes
+
+; FIXME calibration
+*calibrate compass 0
+*units compass degrees
+*units clino degrees
+*instrument compass "Suunto Tandem GSL 6"
+*instrument clino "Suunto Tandem GSL 6"
+
+*data normal from to tape compass clino
+0	1	2.10	272	-38
+1	2	8.68	0	-90
+2	3	6.49	73	-37
+3	4	4.00	277	-47
+4	5	1.36	245	-14
+5	6	2.67	323	-23
+6	7	1.30	329	-25
+7	8	3.21	268	-18
+8	9	2.38	0	-90
+9	10	3.92	188	2
+10	11	5.31	174	-18
+11	12	7.57	68	-35
+12	13	3.46	73	-19
+13	14	3.79	246	-63
+
+*data passage station left right up down ignoreall
+0	-	-	-	-	;	Caillou en aval, bord du puits
+1	2	2	-	-	;	Plaquette fraction
+2	-	-	-	0		
+3	1.6	1.2	0.4	0.6	;	Avant petite rampe
+4	0.4	0	0.4	0.7	;	Entrée desob (petite galerie)
+5	0	0.5	0.5	0.6	;	Après fissure au tournant
+6	0.8	0	1	0.8	;	Coude méandre
+7	0.4	0	2	0.7	;	Après mini salle sur coude
+8	0.2	0.5	0.6	0.4	;	Ammarage petite corde
+9	1.3	1.6	4	-	;	Caillou salle minage
+10	0.5	0	0.4	0.6	;	Début étroiture (1 m après minage)
+11	0.4	0	0.1	1	;	Coude à gauche
+12	0	0.5	0.6	0.5	;	3ème ammarage chimique
+13	2	4	-	-	;	Ammarage coté est
+14	-	-	-	-	;	Fractio ancienne corde
+
+*end s73
