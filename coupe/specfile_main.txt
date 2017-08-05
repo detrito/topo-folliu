@@ -1,0 +1,33 @@
+; commence depuis l'entrée du Gouffre de la St. Barbe
+*start s18.15
+
+; -----------------------
+; GOUFFRE DE LA VOIE LACTEE
+; dévéloppe à gauche depuis la jonction Beacu - Voie Lactée
+*eleft s16.0 s25.1
+
+; dévéloppe à gauche - Série temporaire à la base Puits J-1 
+*eleft s21.1 s21.2
+
+; dévéloppe à gauche - Amont rivière Beacu
+*eleft s19.1 s19.2
+
+; -----------------------
+; GOUFFRE DE LA ST. BARBE
+; dévéloppe à gauche depuis la jonction Beacu - Cheminée
+*eleft s69.0 s69.1
+
+; -----------------------
+; GALERIE DU SILEX
+; dévéloppe à gauche depuis la jonction Beacu - Cheminée
+*eright s70.0 s70.1
+; dévéloppe à gauche depuis la cheminée no.8
+*eleft s72.0 s72.1
+
+; tente superlatif (galerie silex)
+*break s71.0
+
+; -----------------------
+; GOUFFRE DES RESSEAUTS
+; dévéloppe à gauche depuis le puits Boum-Boum
+*eleft s2.11 s2.12

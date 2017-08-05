@@ -1,0 +1,11 @@
+; commence depuis l'entrée du Gouffre de la St. Barbe
+*start s73.0
+
+; dévéloppe à droite - trançon salle Marmotte - Beacu
+*eleft s69.7 s69.6
+
+; termine à la jonction avec le Méandre Beacu
+*break s69.0
+
+; termine à la jonction avec la Salle des Superlatifs
+*break s71.0

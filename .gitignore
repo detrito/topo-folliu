@@ -1,6 +1,7 @@
 # Survex files
 *.err
 *.3d
+*.svg
 
 # svg export
 export/*

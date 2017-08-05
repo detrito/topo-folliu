@@ -25,6 +25,14 @@
 *equate entree_FB15_St_Barbe s73.0
 ; FIXME add coordinates
 
+; lieux importants
+*equate salle_marmotte s71.16
+*equate tente_salle_superlatifs s71.0
+*equate cheminee_siphon s29.9
+*equate vire_marteau s20.3
+*equate trisalle s20.14
+*equate vire_marteau s43.17
+
 *include surveys/s1
 *include surveys/s2
 *include surveys/s3
