@@ -63,10 +63,10 @@ Utilisation
     $ cd coupe/
     $ vim specfile_st_barbe.txt
     $ ./extend.sh
-    $ coupe_st_barbe
-
-    file->export as
-    elements:
+    
+    $ aven coupe_st_barbe.3d
+    file->export_as
+    choose:
     - underground survey legs
     - passages
     - scale 1:500
