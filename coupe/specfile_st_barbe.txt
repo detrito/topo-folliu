@@ -4,6 +4,10 @@
 ; dévéloppe à droite - trançon salle Marmotte - Beacu
 *eleft s69.6 s69.5
 
+; dévéloppe à droite - trançon salle Marmotte - Beacu
+*eleft s72.0 s72.1
+*eright s72.2 s72.3
+
 ; termine à la jonction avec le Méandre Beacu
 *break s69.0
 

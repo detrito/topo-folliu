@@ -22,6 +22,9 @@
 *equate entree_FB29_Couennes s4.34
 *fix entree_FB29_Couennes 2566216 1149088 1610
 
+*equate entree_FB30_Ventilateur s74.0
+*fix entree_FB30_Ventilateur 2566245 1149130 1589
+
 *equate entree_FB15_St_Barbe s73.0
 ; FIXME add coordinates
 
@@ -31,7 +34,6 @@
 *equate cheminee_siphon s29.9
 *equate vire_marteau s20.3
 *equate trisalle s20.14
-*equate vire_marteau s43.17
 
 *include surveys/s1
 *include surveys/s2
@@ -106,6 +108,7 @@
 *include surveys/s71
 *include surveys/s72
 *include surveys/s73
+*include surveys/s74
 
 *equate s2.0 s1.27
 *equate s3.0 s2.13
