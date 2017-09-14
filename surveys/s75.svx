@@ -1,0 +1,70 @@
+*begin s75
+
+*title "Méandre Marguerite Bayes"
+*date 2017.08.25
+
+*team Florian Ballenegger compass clino tape
+*team Luca Guglielmetti notes
+
+; FIXME calibration
+*calibrate compass 0
+
+*units compass degrees
+*units clino degrees
+
+*instrument compass "Compass Suunto Michel"
+*instrument clino "Clino Suunto Michel"
+
+*data normal from to tape compass clino
+
+0	1	6.90	-	DOWN
+1	2	4.75	338	-17.2
+2	3	5.24	59	-11.3
+3	4	3.97	34	-5.7
+4	5	0.84	39	-40
+5	6	2.84	-	DOWN
+6	7	1.08	8	19
+7	8	3.82	74	-38
+8	9	5.72	35	-34
+9	10	2.37	55	-5
+10	11	1.97	324	-22
+11	12	2.04	60	0
+12	13	3.88	-	DOWN
+13	14	2.88	19	-18
+14	15	4.34	33	-22
+15	16	1.93	37	26
+16	17	3.00	88	-25
+17	18	4.29	25	8
+18	19	1.96	29	-12
+19	20	1.14	86	6
+20	21	3.00	47	-5
+21	22	2.08	60	-27
+22	23	2.13	75	-30
+
+*data passage station left right up down ignoreall
+0	-	-	-	-	;	Ammarage bas corde puit galerie du silex
+1	0.4	2.2	-	0.0	;	Bas corde puis Marguerite Bayes
+2	0.6	0.0	-	1.6	;	Coude méandre
+3	0.4	0.0	2.5	2.5	;	Béquet paroi droite
+4	0.0	0.4	3.0	3.5	;	Haut broche main courante
+5	0.0	0.4	3.0	2.5	;	Broche haut P3
+6	1.2	1.5	-	0.0	;	Noeud haut du bas de la corde du P3
+7	0.0	0.3	3.0	1.5	;	Béquet paroi gauche début méandre
+8	0.5	0.0	2.0	3.8	;	Plaquette haut P4
+9	2.0	1.0	6.0	0.1	;	Lame paroi gauche à la fin de la salle
+10	0.4	0.0	1.0	0.6	;	Virage à droite
+11	0.0	1.0	0.3	0.8	;	Virage à gauche
+12	0.4	0.0	1.0	1.0	;	Broche haut P4
+13	0.5	1.0	-	0.8	;	Noeud bas de la corde du P4
+14	0.5	0.0	1.5	0.3	;	
+15	1.0	1.8	6.0	0.0	;	Salle
+16	0.0	0.4	0.8	0.8	;	Début méandre
+17	1.1	0.3	1.5	0.3	;	Mur salle
+18	0.0	0.3	2.0	1.0	;	Point bas de la galérie
+19	0.0	0.3	0.4	0.2	;	Virage
+20	0.0	0.4	0.1	0.4	;	
+21	-	-	-	-	;	
+22	0.4	0.4	0.0	0.5	;	Béquet
+23	-	-	-	-	;	Début grande salle
+
+*end s75
