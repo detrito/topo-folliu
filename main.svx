@@ -39,6 +39,8 @@
 *equate cheminee_siphon s29.9
 *equate vire_marteau s20.3
 *equate trisalle s20.14
+*equate Bivouac_280 s24.11
+*equate Bivouac_480 s40.22
 
 *include surveys/s1
 *include surveys/s2
