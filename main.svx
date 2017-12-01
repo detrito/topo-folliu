@@ -191,7 +191,7 @@
 *equate s65.21 s63.9
 *equate s66.0 s65.11
 *equate s67.0 s65.15
-*equate s68.11 s20.2
+*equate s68.11 s31.3
 *equate s69.1 s14.7
 *equate s70.1 s69.7
 *equate s71.0 s4.1
