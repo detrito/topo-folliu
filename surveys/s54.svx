@@ -1,9 +1,9 @@
 *begin s54
 
-*title "FB18 - Zone des puits d'entrée ( Michel Demierre, Jacques Dutruit - 23.11.1997 )"
+*title "FB18 - Zone des puits d'entrée"
 *date 1997.11.23
-*team M.Demierre compass clino tape
-*team J.Dutruit notes
+*team Michel Demierre compass clino tape
+*team Jacques Dutruit notes
 
 *calibrate compass -0.26
 *units compass grads

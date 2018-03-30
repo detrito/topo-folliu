@@ -1,9 +1,9 @@
 *begin s66
 
-*title "FB18 - Cheminée dans la Boucle Lustu'crue  ( Michel Demierre, Jérôme Perrin - 26.08.1998 )"
+*title "FB18 - Cheminée dans la Boucle Lustu'crue"
 *date 1998.8.26
-*team M.Demierre compass clino tape
-*team J.Perrin notes
+*team Michel Demierre compass clino tape
+*team Jérôme Perrin notes
 
 *calibrate compass -0.13
 *units compass grads

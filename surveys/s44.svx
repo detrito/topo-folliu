@@ -1,9 +1,9 @@
 *begin s44
 
-*title "Puits à Moïse ( camp Folliu septembre 2003 )"
+*title "Puits à Moïse"
 *date 2003.9.5
-*team ???? compass clino tape
-*team VBalleneg notes
+*team Camp Folliu compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.53
 *units compass grads

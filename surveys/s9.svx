@@ -1,9 +1,10 @@
 *begin s9
 
-*title "Rivière du Beaucu - Visées jusqu'à l'Anti-Chambre ( Vincent Ballenegger, Michel Demierre, Manuel Sanchez - 10.12.2000 )"
+*title "Rivière du Beaucu - Visées jusqu'à l'Anti-Chambre"
 *date 2000.12.10
-*team M.Demierre compass clino tape
-*team VBalleneg notes
+*team Michel Demierre compass clino tape
+*team Manuel Sanchez compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.20
 *units compass grads

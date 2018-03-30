@@ -1,9 +1,10 @@
 *begin s61
 
-*title "FB18 - Méandre des Combatants  ( Jacques Demierre, Michel Demierre, Jérôme Hottinger - 28.02.1998 )"
+*title "FB18 - Méandre des Combatants"
 *date 1998.2.28
-*team M.Demierre compass clino tape
-*team J.Demierre notes
+*team Michel Demierre compass clino tape
+*team Jérôme Hottinger compass clino tape
+*team Jacques Demierre notes
 
 *calibrate compass -0.15
 *units compass grads

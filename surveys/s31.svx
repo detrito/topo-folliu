@@ -1,9 +1,9 @@
 *begin s31
 
-*title "Amont de Beaucu - Galerie Florian ( Vincent + Florian Ballenegger - 21.08.2002 )"
+*title "Amont de Beaucu - Galerie Florian"
 *date 2002.8.21
-*team FBalleneg compass clino tape
-*team VBalleneg notes
+*team Florian Ballenegger compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.40
 *units compass grads

@@ -1,9 +1,10 @@
 *begin s58
 
-*title "FB18 - Depuis le sommet du P10 jusqu'à la Salle de l'Oubli  ( Jacques Demierre, Michel Demierre, Jérôme Hottinger - 28.02.1998 )"
+*title "FB18 - Depuis le sommet du P10 jusqu'à la Salle de l'Oubli"
 *date 1998.2.28
-*team M.Demierre compass clino tape
-*team J.Demierre notes
+*team Michel Demierre compass clino tape
+*team Jérôme Hottinger compass clino tape
+*team Jaques Demierre notes
 
 *calibrate compass -0.15
 *units compass grads

@@ -1,9 +1,10 @@
 *begin s13
 
-*title "Méandre aval jusqu'à la base du puits fossile de 9m ( Vincent + Florian Ballenegger, Michel Demierre - 30.06.2001 )"
+*title "Méandre aval jusqu'à la base du puits fossile de 9m"
 *date 2001.6.30
-*team MDe - FBa compass clino tape
-*team VBalleneg notes
+*team Michel Demierre compass clino tape
+*team Florian Ballenegger compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.28
 *units compass grads

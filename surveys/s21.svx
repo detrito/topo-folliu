@@ -1,9 +1,10 @@
 *begin s21
 
-*title "Série temporaire à la base Puits J-1 ( Vincent + Florian Ballenegger, Elizabeta Cavar - 29.10.2001 )"
+*title "Série temporaire à la base Puits J-1"
 *date 2001.10.29
-*team ECa - FBa compass clino tape
-*team VBalleneg notes
+*team Elizabeta Cavar compass clino tape
+*team Florian Ballenegger compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.30
 *units compass grads

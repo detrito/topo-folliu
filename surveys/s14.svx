@@ -1,9 +1,10 @@
 *begin s14
 
-*title "Rivière du Beaucu ( Vincent + Florian Ballenegger, Gilles Rosselet - 28.08.2001 )"
+*title "Rivière du Beaucu"
 *date 2001.8.28
-*team GRo - FBa compass clino tape
-*team VBalleneg notes
+*team Florian Ballenegger compass clino tape
+*team Gilles Rossolet compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.29
 *units compass grads

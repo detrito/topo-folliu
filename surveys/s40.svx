@@ -1,9 +1,10 @@
 *begin s40
 
-*title "Aval - Depuis base Puits Contrebasse et début réseau fossile ( Vincent Ballenegger, Michel Demierre, Jérôme Perrin - 26.08.2003 )"
+*title "Aval - Depuis base Puits Contrebasse et début réseau fossile"
 *date 2003.8.26
-*team MDe - JPe compass clino tape
-*team VBalleneg notes
+*team Michel Demierre compass clino tape
+*team Jérôme Perrin compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.53
 *units compass grads

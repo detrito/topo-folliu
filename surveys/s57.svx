@@ -1,9 +1,9 @@
 *begin s57
 
-*title "FB18 - Aval du Méandre du Silex ( Pierre Beerli, Patrick Paquier - 24.01.1998 )"
+*title "FB18 - Aval du Méandre du Silex"
 *date 1998.1.24
-*team P.Paquier compass clino tape
-*team P.Beerli notes
+*team Patrick Paquier compass clino tape
+*team Pierre Beerli notes
 
 *calibrate compass -0.15
 *units compass grads

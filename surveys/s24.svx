@@ -1,9 +1,12 @@
 *begin s24
 
-*title "Aval - Puits Incliné -> Puits Contrebasse ( Vincent + Florian Ballenegger, Michel Demierre, Jérôme Hottinger, Gilles Rosselet - 24.08.2002 )"
+*title "Aval - Puits Incliné -> Puits Contrebasse"
 *date 2002.8.24
-*team GRo - FBa compass clino tape
-*team VBalleneg notes
+*team Florian Ballenegger compass clino tape
+*team Gilles Rossolet compass clino tape
+*team Jéôme Hottinger compass clino tape
+*team Michel Demierre compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.40
 *units compass grads

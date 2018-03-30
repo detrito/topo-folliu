@@ -1,9 +1,10 @@
 *begin s42
 
-*title "Réseau Actif aval - Depuis le carrefour actif-fossile ( Florian + Vincent Ballenegger, Gilles Rosselet - 03.09.2003 )"
+*title "Réseau Actif aval - Depuis le carrefour actif-fossile"
 *date 2003.9.3
-*team FBa - GRo compass clino tape
-*team VBalleneg notes
+*team Florian Ballenegger compass clino tape
+*team Gilles Rossolet compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.53
 *units compass grads
