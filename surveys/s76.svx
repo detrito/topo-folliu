@@ -1,0 +1,61 @@
+*begin s76
+
+*title "Gouffre du septième ciel"
+*date 2018.08.18
+
+*team Gilles Rosselet compass clino tape
+*team Jaques Demierre notes
+
+*units compass degrees
+*units clino degrees
+
+*instrument compass "Disto X GSL"
+*instrument clino "Disto X GSL"
+
+*data normal from to tape compass clino
+
+0	1	2.67	99.3	-63.2
+1	2	3.60	97.4	-9.4
+2	3	6.16	102.7	-58.7
+3	4	5.22	176.3	-13.8
+4	5	2.51	109.4	84.3
+5	6	3.72	247.8	31.2
+6	7	5.04	275.5	35.4
+7	8	2.35	218.5	2.1
+8	9	4.39	57.3	-66.9
+9	10	5.23	182.3	-12.9
+10	11	1.12	141.3	-12.9
+11	12	6.70	121.6	-75.4
+12	13	3.66	108.4	-36.5
+13	14	10.49	152.7	-75.4
+14	15	9.73	127.6	-32
+15	16	4.11	70	-40.5
+16	17	11.80	96.6	-36.2
+17	18	3.96	120.1	-47.4
+18	19	9.60	97.4	-48.3
+19	20	25.00	74.2	-46.3
+
+*data passage station left right up down ignoreall
+0	-	-	-	-	;	Plaquette FR
+1	0.5	1.0	1.0	0.3	;	Etroiture
+2	0.3	0.7	1.0	1.5	;	Début rampe
+3	0.0	0.7	1.0	1.0	;	Début désob
+4	0.2	0.4	0.6	0.0	;	Fin désob
+5	0.3	0.3	0.0	2,5	;	Début tube
+6	0.0	0.6	0.6	3.5	;	Début désob après «puits»
+7	1.5	0.2	0.3	0.2	;	Fin désob après «puits»
+8	-	-	0.5	-	;	Haut du puits de la salle
+9	0.0	2.0	4.0	0.5	;	Bas du puits de la salle
+10	0.6	0.0	0.3	0.5	;	Haut du puits, main courante
+11	-	-	-	-	;	Haut du puits, ammarage
+12	1.0	2.5	4.0	0.8	;	Bloc sur sol silex
+13	0.0	2.0	0.5	-	;	Ammarage fractio
+14	0.5	0.0	8.0	1.5	;	Bas du puits, entrée méandre
+15	2.5	1.0	0.0	2.0	;	Plafond salle
+16	3.0	3.0	0.5	1.0	;	Entrée laminoire
+17	2.0	2.0	0.0	3.0	;	Corde
+18	2.0	2.0	0.5	3.0	;	Corde
+19	-	-	-	-	;	Etroiture
+20	-	-	-	-	;	Dernier tir (fin du trou de minage), point à 5.93
+
+*end s76

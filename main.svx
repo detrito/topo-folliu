@@ -41,6 +41,11 @@
 *entrance entree_FB15_St_Barbe
 *fix entree_FB15_St_Barbe 2566218 1149145 1596
 
+; src fiche cavité
+*equate entree_FB41_Septieme_ciel s76.0
+*entrance entree_FB41_Septieme_ciel
+*fix entree_FB41_Septieme_ciel 2566084 1149161 1638
+
 ; lieux importants
 *equate salle_marmotte s71.16
 *equate tente_salle_superlatifs s71.0
@@ -125,6 +130,7 @@
 *include surveys/s73
 *include surveys/s74
 *include surveys/s75
+*include surveys/s76
 
 *equate s2.0 s1.27
 *equate s3.0 s2.13
