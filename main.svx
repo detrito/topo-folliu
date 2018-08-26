@@ -8,30 +8,38 @@
 *cs out EPSG:2056
 
 *equate entree_FB28_Ressauts s1.0
+*entrance entree_FB28_Ressauts
 *fix entree_FB28_Ressauts 2566187 1149132 1611
 
 ; src GPS Pascal 2017
 *equate entree_FB25_Trilogie s18.15
+*entrance entree_FB25_Trilogie
 *fix entree_FB25_Trilogie 2566207 1149258 1586
 
 ; src GPS Pascal 2017
 *equate entree_FB47_Voie_Lactee s25.17
+*entrance entree_FB47_Voie_Lactee
 *fix entree_FB47_Voie_Lactee 2566175 1149231 1600
 
-*equate entree_FB18_Chenalette s55.14
+; FIXME entree FB18
+*equate entree_FB18_Chenalette s55.1
+*entrance entree_FB18_Chenalette
 *fix entree_FB18_Chenalette 2566408 1149238 1519
 
 ; src GPS Pascal 2017
 *equate entree_FB29_Couennes s4.34
+*entrance entree_FB29_Couennes
 *fix entree_FB29_Couennes 2566215 1149089 1610
 
 ; src GPS Pascal 2017
 *equate entree_FB30_Ventilateur s74.0
+*entrance entree_FB30_Ventilateur
 *fix entree_FB30_Ventilateur 2566245 1149130 1596
 
 ; src GPS Pascal 2017
 *equate entree_FB15_St_Barbe s73.0
-* fix entree_FB15_St_Barbe 2566218 1149145 1596
+*entrance entree_FB15_St_Barbe
+*fix entree_FB15_St_Barbe 2566218 1149145 1596
 
 ; lieux importants
 *equate salle_marmotte s71.16
