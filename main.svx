@@ -16,10 +16,14 @@
 *entrance entree_FB25_Trilogie
 *fix entree_FB25_Trilogie 2566207 1149258 1586
 
-; src GPS Pascal 2017
 *equate entree_FB47_Voie_Lactee s25.17
 *entrance entree_FB47_Voie_Lactee
-*fix entree_FB47_Voie_Lactee 2566175 1149231 1600
+; src GPS Pascal 2017
+;*fix entree_FB47_Voie_Lactee 2566175 1149231 1600
+; src fiche cavité
+;*fix entree_FB47_Voie_Lactee 2566191 1149206 1598
+; src ortophoto
+*fix entree_FB47_Voie_Lactee 2566196 1149203 1596
 
 ; FIXME entree FB18
 *equate entree_FB18_Chenalette s55.1
