@@ -7,7 +7,7 @@
 *team Valentin Pérrillat Demierre notes
 
 *units compass degrees
-*units clino degrees
+*units clino percent
 
 *instrument compass "Bussole à Michel"
 *instrument clino "Clino à Michel"

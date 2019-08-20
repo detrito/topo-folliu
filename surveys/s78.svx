@@ -1,0 +1,45 @@
+*begin s78
+
+*title "Gouffre du septième ciel"
+*date 2019.08.20
+
+*team Valentin Pérrillat Demierre compass clino tape
+*team Luca Guglielmetti notes
+
+*units compass degrees
+*units clino degrees
+
+*instrument compass "Bussole à Michel"
+*instrument clino "Clino à Michel"
+
+*data normal from to tape compass clino
+
+1	2	5.75	80	-30
+2	3	3.30	67	-20
+3	4	6.45	71	-6
+4	5	4.82	75	-41
+5	6	3.12	38	7
+6	7	6.78	65	-17
+7	8	2.65	63	-68
+8	9	2.39	92	-29
+9	10	3.75	130	-66
+10	11	1.25	112	12
+11	12	2.73	62	-21
+12	13	8.60	120	-47
+
+*data passage station left right up down ignoreall
+
+1	0.5	2	0.3	0.5 ; Fin etroiture
+2	0.5	0.5	0.2	1.2
+3	0.7	0.3	0	0.4
+4	-	2	1	0.3
+5	1.5	-	1.0	0.3
+6	1	1	2	-
+7	0.4	0.9	-	0.1
+8	0	1	0.2	0.3
+9	1	2	0.5	0
+10	0.6	0	3	0.2 ; Début du méandre
+11	0	1.2	2	- ; Bequet à coté de l'ammarage du haut de premier puits (P6)
+12 -	-	-	- ; Bequet dans la salle au debut du méandre
+
+*end s78
