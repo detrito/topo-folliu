@@ -135,6 +135,7 @@
 *include surveys/s74
 *include surveys/s75
 *include surveys/s76
+*include surveys/s77
 
 *equate s2.0 s1.27
 *equate s3.0 s2.13
@@ -216,6 +217,7 @@
 *equate s71.16 s69.7
 *equate s72.0 s71.8
 *equate s73.14 s69.11
+*equate s75.23 s77.1
 
 ; FIXME il fudrait une visée cailloux-tente-superlatifs -> broches tête de puit Marguerite Bayes
 *equate s75.0 s6.2
