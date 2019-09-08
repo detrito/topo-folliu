@@ -46,9 +46,9 @@
 *fix entree_FB15_St_Barbe 2566218 1149145 1596
 
 ; src fiche cavité
-*equate entree_FB41_Septieme_ciel s76.0
-*entrance entree_FB41_Septieme_ciel
-*fix entree_FB41_Septieme_ciel 2566084 1149161 1638
+*equate entree_FB41_ballastiere s76.0
+*entrance entree_FB41_ballastiere
+*fix entree_FB41_ballastiere 2566084 1149161 1638
 
 ; lieux importants
 *equate salle_marmotte s71.16
@@ -220,6 +220,7 @@
 *equate s73.14 s69.11
 *equate s75.23 s77.1
 *equate s76.19 s78.1
+*equate s43.2 s78.12
 
 ; FIXME il fudrait une visée cailloux-tente-superlatifs -> broches tête de puit Marguerite Bayes
 *equate s75.0 s6.2
