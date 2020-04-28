@@ -50,6 +50,9 @@
 *entrance entree_FB41_ballastiere
 *fix entree_FB41_ballastiere 2566084 1149161 1638
 
+; src carte FR
+; fix entree_8eme_ciel 2566074 1149152 1644
+
 ; lieux importants
 *equate salle_marmotte s71.16
 *equate tente_salle_superlatifs s71.0

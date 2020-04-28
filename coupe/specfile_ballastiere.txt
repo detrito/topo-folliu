@@ -1,0 +1,8 @@
+; commence depuis entree
+*start s76.0
+
+; développe tout à droite
+;*eleft s76.5
+;*eright s76.8
+; arrête à la Trisalle
+*break s78.12
