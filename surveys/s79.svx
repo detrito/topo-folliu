@@ -1,0 +1,80 @@
+*begin s79
+
+*title "Tente 480 - vieux fond - croisement siphon Brambilla"
+*date 2020.08.19
+
+*team Florian Ballenegger compass clino tape
+*team Luca Guglielmetti notes
+
+*units compass degrees
+*units clino degrees
+
+*instrument compass "DistoX GSL"
+*instrument clino "DistoX GSL"
+
+*data normal from to tape compass clino			
+0	1	5.89	189	-27
+1	2	4.54	185	-31
+2	3	4.17	158	-19
+3	4	1.25	241	-19
+4	5	3.67	138	-17
+5	6	8.47	187	-40
+6	7	15.53	130	-55
+7	8	0.75	217	29
+8	9	10.15	153	-50
+9	10	2.15	169	-21
+10	11	6.36	20	-59
+11	12	12.40	194	-22
+12	13	5.40	161	-41
+13	14	3.24	308	-20
+14	15	11.41	175	-38
+15	16	7.18	151	-53
+16	17	7.21	115	-41
+17	18	9.75	178	-39
+18	19	2.46	239	25
+19	20	6.73	166	-41
+20	21	3.81	66	-30
+21	22	3.16	56	-51
+22	23	7.49	181	-32
+23	24	5.15	107	-49
+24	25	1.32	41	-10
+25	26	5.51	117	-51
+26	27	10.08	165	-42
+27	28	6.67	177	-37
+28	29	3.92	175	-24
+29	30	4.66	146	-33
+
+*data passage station left right up down ignoreall
+0	0.0	1.5	3.0	1.5	; salle bivouac -480
+1	0.4	0.1	0.8	0.7	; galerie avant étroiture
+2	0.2	0.1	0.2	0.4	; étroiture dans l'argile
+3	0.2	0.8	0.4	0.3	; coude sx après étroiture
+4	0.4	0.1	0.0	0.5	; coude dx 
+5	0.0	0.4	0.5	1.5	; coude sx
+6	1.5	0.0	1.0	1.0	; entre 2 ammarages
+7	1.0	1.4	0.4	0.2	; coude sx
+8	1.5	1.0	0.1	1.0	; report
+9	-	-	-	0.7	; début main courante
+10	2.0	2.9	0.3	0.8	; fin main courante, ammarage du puits
+11	0.2	6.5	0.1	0.9	; coude sx, fin corde
+12	0.4	0.0	0.4	1.2	; ammarage puits
+13	1.0	3.3	0.0	1.6	; coude sx
+14	1.1	0.0	1.0	-	; coude dx, ammarage corde
+15	1.2	0.0	0.0	0.9	; ammarage
+16	1.4	0.9	0.3	-	; virage
+17	1.3	0.4	0.0	1.1	; début mur, fin corde fixe
+18	1.1	2.4	0.6	1.1	; vieux fond
+19	0.3	0.2	0.2	1.0	; jonction avec galerie glaiseuse
+20	0.0	0.7	0.5	0.0	; coude super penible
+21	0.1	0.4	0.2	1.3	; fractio tête du puits
+22	0.3	1.2	0.4	0.6	; fractio base du puits
+23	1.1	0.0	0.3	0.9	; fractio tête du puits
+24	0.0	1.2	0.2	0.6	; coude dx 
+25	-	2.0	0.0	1.0	; coude dx, ammarage fractio
+26	0.0	1.0	0.4	0.4	; milieu galerie
+27	0.0	1.1	0.4	0.3	; milieu galerie
+28	0.8	0.3	0.2	0.6	; milieu galerie
+29	0.6	0.3	0.1	0.4	; coude après graviers
+30	-	-	-	-	; fond 2019, bifurcation siphon vs actif
+
+*end s79

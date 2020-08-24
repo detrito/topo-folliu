@@ -59,8 +59,9 @@
 *equate cheminee_siphon s29.9
 *equate vire_marteau s20.3
 *equate trisalle s20.14
-*equate Bivouac_280 s24.11
-*equate Bivouac_480 s40.22
+*equate bivouac_africain s24.11
+*equate bivouac_noye s40.22
+*equate vieux_fond s79.18
 
 *include surveys/s1
 *include surveys/s2
@@ -140,6 +141,7 @@
 *include surveys/s76
 *include surveys/s77
 *include surveys/s78
+*include surveys/s79
 
 *equate s2.0 s1.27
 *equate s3.0 s2.13
@@ -224,6 +226,7 @@
 *equate s75.23 s77.1
 *equate s76.19 s78.1
 *equate s43.2 s78.12
+*equate s40.22 s79.0
 
 ; FIXME il fudrait une visée cailloux-tente-superlatifs -> broches tête de puit Marguerite Bayes
 *equate s75.0 s6.2
