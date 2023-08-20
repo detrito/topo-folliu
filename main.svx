@@ -53,10 +53,10 @@
 ; src carte FR
 ; fix entree_8eme_ciel 2566074 1149152 1644
 
-; src GPS Gilles 2023
+; src ortophoto swisstopo
 *equate entree_FBXX_jo_siffert s80.1
 *entrance entree_FBXX_jo_siffert
-*fix entree_FBXX_jo_siffert 2566620 1149508 1369
+*fix entree_FBXX_jo_siffert 2566622.8 1149500.5 1369
 
 ; lieux importants
 *equate salle_marmotte s71.16
