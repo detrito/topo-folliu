@@ -1,0 +1,42 @@
+*begin Dragon
+
+*title "Dragon"
+;(Vanil des Artses, Fribourg, Suisse)
+
+*copyright 2015 AFB
+
+; coordinate system CH1903+_LV95 fot both input and output
+*cs EPSG:2056
+*cs out EPSG:2056
+
+*equate entree_Dragon s1.1
+*equate sortie_Dragon s9.18
+*fix entree_Dragon 2565616 1147945 1739
+*entrance entree_Dragon
+*entrance sortie_Dragon
+
+*include s1
+*include s2
+*include s3
+*include s4
+*include s5
+*include s6
+*include s7
+*include s8
+*include s9
+*include s10
+*include s11
+
+*equate s1.27 s2.1
+*equate s2.11 s3.1
+*equate s3.11 s4.0
+*equate s3.14 s5.1
+*equate s5.17 s6.1
+*equate s6.10 s7.1
+*equate s7.2 s8.1
+*equate s8.34 s9.1
+*equate s3.17 s10.1
+*equate s3.17 s11.1
+
+*end Dragon
+

@@ -1,0 +1,56 @@
+*begin s3
+
+*title "Dragon s3"
+*date 2013.01.01
+
+*team AFB compass clino
+*team Florian Ballenegger tape notes
+
+; FIXME calibration
+*calibrate compass 0
+
+*units compass degrees
+*units clino degrees
+
+*instrument compass "Compass Suunto Michel"
+*instrument clino "Clino Suunto Michel"
+
+*data normal from to tape compass clino
+1	2	5.54	226	4
+2	3	3	154	12
+3	4	0.65	154	90
+4	5	5.03	210	8
+5	6	6.68	233	12
+6	7	8.17	240	31
+7	8	4.65	262	39
+8	9	11.31	272	43
+9	10	4.82	265	23
+10	11	3.88	256	-35
+11	12	4.02	275	55
+12	13	4.99	315	44
+13	14	6	283	16
+14	15	3.28	17	20
+15	16	3.4	352	43
+16	17	6.61	8	39
+
+
+*data passage station left right up down ignoreall
+1	0.3	0.8	0	0.7	;	=s2.11 Bifurcation dans galerie, au plafond, petite stalactite cassée
+2	0.7	0.1	0.2	0.4	;	Parois droite dans tournant
+3	1	0.4	0.65	0	;	Sortie étroiture sur sol
+4	1	0.4	0	0.65	;	Verticale du point précédent au plafond
+5	1	0.4	0	0.7	;	Plafond, fin argile, léger rétrecissement
+6	0.3	2	0.6	0.4	;	Caillou sol, début élargissement
+7	0	2.6	3.5	0.8	;	Parois gauche ressaut caillous
+8	0.4	2.7	2.5	1.9	;	Parois gauche début rampe
+9	1.5	0	0.8	1.8	;	Haut rampe
+10	0	0.4	0.4	0.5	;	étroiture
+11	0.9	0	1.5	0.3	;	Jonction
+12	0	1	0.5	1.2	;	Rampe
+13	1	0	0	0.9	;	« replat »
+14	0.6	2.5	0	1.4	;	départ rampe II
+15	0.4	0.4	0	1.7	;	Verticale puits (=au dessus puits cachés par les blocs)
+16	0	1.2	0.2	1	;	Début salle cheminée
+17	3	0	8	3.5	;	Mi-escalade
+
+*end s3

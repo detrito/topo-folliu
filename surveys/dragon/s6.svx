@@ -1,0 +1,41 @@
+*begin s6
+
+*title "Dragon s6"
+*date 2013.01.01
+
+*team AFB compass clino
+*team Florian Ballenegger tape notes
+
+; FIXME calibration
+*calibrate compass 0
+
+*units compass degrees
+*units clino degrees
+
+*instrument compass "Compass Suunto Michel"
+*instrument clino "Clino Suunto Michel"
+
+*data normal from to tape compass clino
+1	2	3.25	251	46
+2	3	1.8	145	23
+3	4	5.15	265	45
+4	5	5.99	336	38
+5	6	4.03	84	24
+6	7	6.2	140	21
+7	9	6.75	283	10
+9	10	9.86	286	14
+
+
+*data passage station left right up down ignoreall
+;1 = s5.17
+2	1.5	0.2	0.5	1.5	;	Petite salle dans éboulis après douche
+3	0	0.5	0.5	0.5	;	gauche
+4	0	0.5	1.9	0.8	;	Sortie trémie dans antichambre
+5	0.3	0.2	0.2	0.6	;	début passage vers grande salle
+6	0	1.5	0.6	1.2	;	après passage, début demi-salle
+7	10	12	16	5	;	parois opposée sur « arrête »
+9	-	-	-	-	;	niveau pt 6 sur parois gauche
+10	-	-	-	-	;	sous méandre
+
+*end s6
+

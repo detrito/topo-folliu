@@ -1,0 +1,58 @@
+*begin s9
+
+*title "Dragon s9"
+*date 2013.01.01
+
+*team AFB compass clino
+*team Florian Ballenegger tape notes
+
+; FIXME calibration
+*calibrate compass 0
+
+*units compass degrees
+*units clino grads
+
+*instrument compass "Compass Suunto Michel"
+*instrument clino "Clino Suunto Michel"
+
+*data normal from to tape compass clino
+1	2	6.2	273	-19
+2	3	11.9	273	100
+3	4	8.62	269	-4
+4	5	0.82	210	0
+5	6	6.96	210	100
+6	7	2.42	195	40
+7	8	4.12	279	19
+8	9	2.96	252	-19
+9	10	5.31	252	100
+10	11	3.96	280	45
+11	12	2.51	236	-1
+12	13	3.41	340	41
+13	14	0.85	243	18
+14	15	3.52	292	-14
+15	16	3.28	63	16
+16	17	2.41	201	37
+17	18	1.56	38	46
+
+*data passage station left right up down ignoreall
+;1 = s8.34
+2	0.9	0.9	0.3	10	;	bas corde noeud
+3	1	0.3	1.2	1.2	;	haut corde noeud
+4	0.8	0	5	1	;	parois droite
+5	0	0.7	5	0.3	;	Parois gauche
+6	1	0.5	1	0.5	;	noeud Y
+7	0	3	0.3	1.8	;	arès étroiture vert. dans trémie, début salle
+8	1.8	0	3	1.8	;	parois droite après embranchement
+9	0.4	0.1	5	1	;	corde (salle soupe aux cailloux)
+10	0.5	2	1.5	1.5	;	plaquette
+11	2	0.5	1.5	1	;	parois droite en dessus amarrage
+12	0.5	0	0.5	1.2	;	tournant à droite galerie méandre
+13	0.6	0.2	1.5	0.2	;	avant petite salle
+14	0	1.2	2	0.5	;	décalé parois gauche
+15	0	1	1.5	0.5	;	virage à droite, méandre
+16	0.3	0.7	1.5	0.5	;	
+17	0.5	0	0.5	0.3	;	
+18	0	0.5	0.5	0.6	;	
+
+*end s9
+

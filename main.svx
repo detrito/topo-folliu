@@ -69,6 +69,7 @@
 *equate vieux_fond s79.18
 
 *include surveys/encensoir/encensoir
+*include surveys/dragon/dragon
 *include surveys/s1
 *include surveys/s2
 *include surveys/s3
