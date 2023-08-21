@@ -1,9 +1,10 @@
 *begin s26
 
-*title "FB47 - Cheminée parallèle dans la zone d'entrée  ( Vincent + Florian Ballenegger, Michel Demierre - 03.08.2002 )"
+*title "FB47 - Cheminée parallèle dans la zone d'entrée"
 *date 2002.8.3
-*team MDe - FBa compass clino tape
-*team VBalleneg notes
+*team Michel Demierre compass clino tape
+*team Florian Ballenegger compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.39
 *units compass grads

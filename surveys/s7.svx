@@ -1,9 +1,10 @@
 *begin s7
 
-*title "FB28 - Aval Puits Boum-Boum jusqu'au sommet Puits des Rolling Stones ( Vincent + Florian Ballenegger, Michel Demierre - 22.10.2000 )"
+*title "FB28 - Aval Puits Boum-Boum jusqu'au sommet Puits des Rolling Stones"
 *date 2000.10.22
-*team MDe - FBa compass clino tape
-*team VBalleneg notes
+*team Michel Demierre compass clino tape
+*team Florian Ballenegger compass clino tape
+*team Vincent Balleneg notes
 
 *calibrate compass 0.17
 *units compass grads

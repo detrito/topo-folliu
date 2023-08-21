@@ -1,9 +1,10 @@
 *begin s4
 
-*title "FB29 - Trajet principal depuis bas Puits Superlatifs jusqu'à l'entrée ( Jacques + Michel Demierre, Jérôme Hottinger - 26.8.1999 )"
+*title "FB29 - Trajet principal depuis bas Puits Superlatifs jusqu'à l'entrée"
 *date 1999.8.26
-*team M.Demierre compass clino tape
-*team J.Demierre notes
+*team Michel Demierre compass clino tape
+*team Jérôme Hottinger compass clino tape
+*team Jaques Demierre notes
 
 *calibrate compass 0.03
 *units compass grads

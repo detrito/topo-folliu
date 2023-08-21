@@ -7,8 +7,6 @@
 *team Anne-Cécile Ballenegger clino tape
 *team Luca Guglielmetti notes
 
-; FIXME calibration
-*calibrate compass 0
 *units compass degrees
 *units clino degrees
 *instrument compass "Suunto Tandem GSL 6"

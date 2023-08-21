@@ -1,9 +1,9 @@
 *begin s47
 
-*title "Galerie 1 pour jonction entre le FB29 et le FB18  ( F.Ballenegger, V.Ballenegger - 21.08.2009 )"
+*title "Galerie 1 pour jonction entre le FB29 et le FB18"
 *date 2009.8.21
-*team FBalleneg compass clino tape
-*team VBalleneg notes
+*team Florian Ballenegger compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 1.18
 *units compass degrees

@@ -1,9 +1,10 @@
 *begin s3
 
-*title "Méandre de jonction FB28-FB29 ( Vincent + Florian Ballenegger, Michel Demierre - 22.10.2000 )"
+*title "Méandre de jonction FB28-FB29"
 *date 2000.10.22
-*team MDe - FBa compass clino tape
-*team VBalleneg notes
+*team Michel Demierre compass clino tape
+*team Florian Ballenegger compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.17
 *units compass grads

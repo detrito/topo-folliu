@@ -1,9 +1,9 @@
 *begin s2
 
-*title "FB28 - Suite jusqu'au Puits Boum-Boum ( Vincent Ballenegger, Michel Demierre - 13.05.2001 )"
+*title "FB28 - Suite jusqu'au Puits Boum-Boum"
 *date 2001.5.13
-*team M.Demierre compass clino tape
-*team VBalleneg notes
+*team Michel Demierre compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.27
 *units compass grads

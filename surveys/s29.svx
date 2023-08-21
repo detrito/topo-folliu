@@ -1,9 +1,9 @@
 *begin s29
 
-*title "Amont de Beaucu - Cheminée au dessus du siphon  ( Michel Demierre, Jérôme Hottinger - 30.08.2002 )"
+*title "Amont de Beaucu - Cheminée au dessus du siphon"
 *date 2002.8.30
-*team Hottinger compass clino tape
-*team M.Demierre notes
+*team Jérôme Hottinger compass clino tape
+*team Michel Demierre notes
 
 *calibrate compass 0.41
 *units compass grads

@@ -1,9 +1,10 @@
 *begin s33
 
-*title "Rivière de Beaucu - Boucle active  ( Vincent + Florian Ballenegger, Gilles Rosselet - 24.08.2002 )"
+*title "Rivière de Beaucu - Boucle active"
 *date 2002.8.24
-*team GRo - FBa compass clino tape
-*team VBalleneg notes
+*team Gilles Rosselet compass clino tape
+*team Florian Ballenegger compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.40
 *units compass grads

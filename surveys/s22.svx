@@ -1,9 +1,10 @@
 *begin s22
 
-*title "Méandre aval - Lucarne à mi-puits dans le P9 fossile - Visées estimées ( Vincent + Florian Ballenegger, Michel Demierre - 05.01.2002 )"
+*title "Méandre aval - Lucarne à mi-puits dans le P9 fossile - Visées estimées"
 *date 2002.1.5
-*team MDe - FBa compass clino tape
-*team VBalleneg notes
+*team Michel Demierre compass clino tape
+*team Florian Ballenegger compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.34
 *units compass grads

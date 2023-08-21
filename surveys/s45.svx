@@ -1,9 +1,11 @@
 *begin s45
 
-*title "Réseau Actif aval - Suite du Réseau  ( Florian Ballenegger, Jacques Demierre, Michel Demierre, Gilles Rosselet - 25.07.2004 )"
+*title "Réseau Actif aval - Suite du Réseau"
 *date 2004.7.25
-*team JDE-MD-GR compass clino tape
-*team FBalleneg notes
+*team Gilles Rossolet compass clino tape
+*team Michel Demierre compass clino tape
+*team Jacques Demierre compass clino tape
+*team Florian Ballenegger notes
 
 *calibrate compass 0.65
 *units compass grads

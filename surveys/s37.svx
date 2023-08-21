@@ -1,9 +1,11 @@
 *begin s37
 
-*title "FB29 - Bas mur cheminée méandre 1 base Superlatifs ( Florian + Vincent Ballenegger, Michel Demierre, Jérôme Hottinger - 27.08.2002 )"
+*title "FB29 - Bas mur cheminée méandre 1 base Superlatifs"
 *date 2002.8.27
-*team MD-FB-JH compass clino tape
-*team VBalleneg notes
+*team Michel Demierre compass clino tape
+*team Florian Ballenegger compass clino tape
+*team Jérôme Hottinger compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.41
 *units compass grads

@@ -1,9 +1,10 @@
 *begin s15
 
-*title "Amont Rivière du Beaucu et jonction avec la galerie du FB25 ( Vincent + Florian Ballenegger, Michel Demierre - 06.09.2001 )"
+*title "Amont Rivière du Beaucu et jonction avec la galerie du FB25"
 *date 2001.9.6
-*team MDe - FBa compass clino tape
-*team VBalleneg notes
+*team Florian Ballenegger compass clino tape
+*team Michel Demierre compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.29
 *units compass grads

@@ -1,9 +1,9 @@
 *begin s28
 
-*title "Amont de Beaucu - Galerie du Siphon  ( Vincent + Florian Ballenegger - 20.08.2002 )"
+*title "Amont de Beaucu - Galerie du Siphon"
 *date 2002.8.20
-*team FBalleneg compass clino tape
-*team VBalleneg notes
+*team Florian Ballenegger compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.40
 *units compass grads

@@ -1,0 +1,8 @@
+; commence depuis la fin
+*start s68.0
+
+; développe tout à gauche
+; *eleft s75.23 s75.22
+
+; arrête en tête du puits de Marguerite Bayes
+*break s68.11

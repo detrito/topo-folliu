@@ -1,0 +1,58 @@
+*begin s80
+
+*title "Gouffre Jo Siffert"
+*date 2023.08.18
+
+*team Anne-Cécile Ballenegger compass clino tape
+*team Gilles Rosselet notes
+
+*units compass degrees
+*units clino degrees
+
+*instrument compass "Suunto Tandem Michel"
+*instrument clino "Suunto Tandem Michel"
+
+*data normal from to tape compass clino
+1	2	10.05	141	-62
+2	3	3.70	234	+7
+3	4	2.27	315	-12
+4	5	3.54	198	+11
+5	6	5.91	188	-17
+6	7	6.01	228	+7
+7	8	11.21	246	+24
+8	9	5.56	215	-1
+9	10	3.18	270	-16
+10	11	6.00	225	+1
+11	12	4.27	240	-46
+12	13	6.46	140	+60
+13	14	3.55	124	+15
+14	15	7.21	152	-12
+15	16	7.50	158	-10
+16	17	3.59	131	+34
+17	18	5.90	135	+20
+18	19	6.90	155	-32
+19	20	3.76	278	+52
+
+*data passage station left right up down ignoreall
+1	-	-	-	-	;	sommet puits entrée
+2	1.7	1.2	0	0.7	;	bas du puits
+3	0.7	0.3	0	0.7	;	passage galerie / point milieu
+4	1.8	0	1	0.3	;	paroi opposée - méandre croisement
+5	0.2	0.6	0.7	0.3	;	rétrécissement
+6	0	1.8	1	1	;	départ puit méandre
+7	1	2.5	3	10	;	départ méandre amont
+8	1.5	0.3	3	10	;	haut du méandre
+9	0	2	2	7	;	haut du méandre
+10	0.4	0.4	10	5	;	mi-hauteur
+11	0.4	0.4	10	5	;	mi-hauteur
+12	3	0	15	1	;	bas cheminée
+13	0.7	0	7	6	;	départ galerie gauche - ammarage droite
+14	0	0.5	10	7	;	millieu méandre
+15	0	0.5	3	6	;	millieu méandre
+16	0.5	0	2.5	15	;	millieu méandre
+17	0.4	0.2	10	5	;	bloc millieu méandre
+18	0.1	0.5	15	3	;	lame millieu faille
+19	1	3	12	1.8	;	salle gouille
+20	0.7	0	5	15	;	départ gallerie 2eme ammarage
+
+*end s80

@@ -1,9 +1,9 @@
 *begin s50
 
-*title "FB18 - Amont du Méandre du Silex ( Michel Demierre, Jérôme Perrin - 24.08.1998 )"
+*title "FB18 - Amont du Méandre du Silex"
 *date 1998.8.24
-*team M.Demierre compass clino tape
-*team J.Perrin notes
+*team Michel Demierre compass clino tape
+*team Jérôme Perrin notes
 
 *calibrate compass -0.13
 *units compass grads

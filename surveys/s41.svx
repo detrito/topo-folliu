@@ -1,9 +1,10 @@
 *begin s41
 
-*title "Réseau Fossile aval - Amont glacial à la base du Puits de l'Arbalète ( Vincent Ballenegger, Michel Demierre, Jérôme Perrin - 26.08.2003 )"
+*title "Réseau Fossile aval - Amont glacial à la base du Puits de l'Arbalète"
 *date 2003.8.26
-*team MDe - JPe compass clino tape
-*team VBalleneg notes
+*team Michel Demierre compass clino tape
+*team Jérôme Perrin compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.53
 *units compass grads

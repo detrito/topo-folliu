@@ -1,9 +1,10 @@
 *begin s23
 
-*title "Aval - Depuis la base du P9 fossile jusqu'au sommet Puits Incliné ( Vincent + Florian Ballenegger, Michel Demierre - 05.01.2002 )"
+*title "Aval - Depuis la base du P9 fossile jusqu'au sommet Puits Incliné"
 *date 2002.1.5
-*team MDe - FBa compass clino tape
-*team VBalleneg notes
+*team Michel Demierre compass clino tape
+*team Florian Ballenegger compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.34
 *units compass grads

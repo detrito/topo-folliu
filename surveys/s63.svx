@@ -1,9 +1,9 @@
 *begin s63
 
-*title "FB18 - Cheminée du Méandre des Combatants jusqu'au fond du FB18  ( Pierre Beerli, Patrick Paquier - 04.04.1998 )"
+*title "FB18 - Cheminée du Méandre des Combatants jusqu'au fond du FB18"
 *date 1998.4.4
-*team P.Paquier compass clino tape
-*team P.Beerli notes
+*team Patrick Paquier compass clino tape
+*team Pierre Beerli notes
 
 *calibrate compass -0.14
 *units compass grads

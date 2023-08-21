@@ -1,9 +1,10 @@
 *begin s39
 
-*title "Aval - Boucle fossile jusqu'à la jonction avec réseau actif ( Vincent + Florian Ballenegger, Michel Demierre - 30.12.2002 )"
+*title "Aval - Boucle fossile jusqu'à la jonction avec réseau actif"
 *date 2002.12.30
-*team MDe - FBa compass clino tape
-*team VBalleneg notes
+*team Michel Demierre compass clino tape
+*team Florian Ballenegger compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.45
 *units compass grads

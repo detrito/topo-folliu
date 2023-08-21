@@ -6,10 +6,13 @@ Ce repository contiens les données topographiques du
 [Réseau du Folliu](http://afb.speleologie.ch/?p=472) (lapiaz du Folliu Borna,
 Canton de Fribourg, Suisse) ainsi que le dessin du réseau en format SVG.
 
+Le dessin du gouffre en format PDF est disponible
+[ici](dessin/Folliu_Borna_dessin_coupe.pdf) 
+
 Données
 -------
 Les données topographiques proviennent d'expéditions de topographie par visées
-optiques réalisées entre 1999 et 2016 par l'
+optiques réalisées entre 1999 et 2017 par l'
 [Association des Folliu Bornés](http://afb.speleologie.ch/) (AFB).
 
 Originairement saisies dans le logiciel

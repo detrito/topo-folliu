@@ -1,9 +1,9 @@
 *begin s60
 
-*title "FB18 - Shunt dans la Salle de l'Oubli  ( Pierre Beerli, Patrick Paquier - 28.02.1998 )"
+*title "FB18 - Shunt dans la Salle de l'Oubli"
 *date 1998.2.28
-*team P.Paquier compass clino tape
-*team P.Beerli notes
+*team Patrick Paquier compass clino tape
+*team Pierre Beerli notes
 
 *calibrate compass -0.15
 *units compass grads

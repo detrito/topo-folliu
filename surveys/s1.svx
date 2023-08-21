@@ -1,9 +1,9 @@
 *begin s1
 
-*title " FB28 - Trajet principal ( Michel Demierre, David Christen - 22.08.1999 )"
+*title "FB28 - Trajet principal"
 *date 1999.8.22
-*team M.Demierre compass clino tape
-*team D.Christen notes
+*team Michel Demierre compass clino tape
+*team David Christen notes
 
 *calibrate compass 0.03
 *units compass grads

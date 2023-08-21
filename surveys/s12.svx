@@ -1,9 +1,11 @@
 *begin s12
 
-*title "Méandre aval jusqu'au sommet de la cascade de 5m ( Vincent + Florian Ballenegger, Michel Demierre, Gilles Rosselet - 11.02.2001 )"
+*title "Méandre aval jusqu'au sommet de la cascade de 5m"
 *date 2001.2.11
-*team MD-FB-GR compass clino tape
-*team VBalleneg notes
+*team Michel Demierre compass clino tape
+*team Florian Ballenegger compass clino tape
+*team Gilles Rossolet compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.24
 *units compass grads

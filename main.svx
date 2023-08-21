@@ -8,30 +8,55 @@
 *cs out EPSG:2056
 
 *equate entree_FB28_Ressauts s1.0
+*entrance entree_FB28_Ressauts
 *fix entree_FB28_Ressauts 2566187 1149132 1611
 
 ; src GPS Pascal 2017
 *equate entree_FB25_Trilogie s18.15
+*entrance entree_FB25_Trilogie
 *fix entree_FB25_Trilogie 2566207 1149258 1586
 
-; src GPS Pascal 2017
 *equate entree_FB47_Voie_Lactee s25.17
-*fix entree_FB47_Voie_Lactee 2566175 1149231 1600
+*entrance entree_FB47_Voie_Lactee
+; src GPS Pascal 2017
+;*fix entree_FB47_Voie_Lactee 2566175 1149231 1600
+; src fiche cavité
+;*fix entree_FB47_Voie_Lactee 2566191 1149206 1598
+; src ortophoto
+*fix entree_FB47_Voie_Lactee 2566196 1149203 1596
 
-*equate entree_FB18_Chenalette s55.14
+; FIXME entree FB18
+*equate entree_FB18_Chenalette s55.1
+*entrance entree_FB18_Chenalette
 *fix entree_FB18_Chenalette 2566408 1149238 1519
 
 ; src GPS Pascal 2017
 *equate entree_FB29_Couennes s4.34
+*entrance entree_FB29_Couennes
 *fix entree_FB29_Couennes 2566215 1149089 1610
 
 ; src GPS Pascal 2017
 *equate entree_FB30_Ventilateur s74.0
+*entrance entree_FB30_Ventilateur
 *fix entree_FB30_Ventilateur 2566245 1149130 1596
 
 ; src GPS Pascal 2017
 *equate entree_FB15_St_Barbe s73.0
-* fix entree_FB15_St_Barbe 2566218 1149145 1596
+*entrance entree_FB15_St_Barbe
+*fix entree_FB15_St_Barbe 2566218 1149145 1596
+
+; src fiche cavité
+*equate entree_FB41_ballastiere s76.0
+*entrance entree_FB41_ballastiere
+*fix entree_FB41_ballastiere 2566084 1149161 1638
+
+; src carte FR
+; fix entree_8eme_ciel 2566074 1149152 1644
+
+; src ortophoto swisstopo
+*equate entree_FBXX_jo_siffert s80.1
+*entrance entree_FBXX_jo_siffert
+*fix entree_FBXX_jo_siffert 2566622.8 1149500.5 1369
 
 ; lieux importants
 *equate salle_marmotte s71.16
@@ -39,6 +64,9 @@
 *equate cheminee_siphon s29.9
 *equate vire_marteau s20.3
 *equate trisalle s20.14
+*equate bivouac_africain s24.11
+*equate bivouac_noye s40.22
+*equate vieux_fond s79.18
 
 *include surveys/encensoir/encensoir
 *include surveys/s1
@@ -115,6 +143,12 @@
 *include surveys/s72
 *include surveys/s73
 *include surveys/s74
+*include surveys/s75
+*include surveys/s76
+*include surveys/s77
+*include surveys/s78
+*include surveys/s79
+*include surveys/s80
 
 *equate s2.0 s1.27
 *equate s3.0 s2.13
@@ -189,12 +223,19 @@
 *equate s65.21 s63.9
 *equate s66.0 s65.11
 *equate s67.0 s65.15
-*equate s68.11 s20.2
+*equate s68.11 s31.3
 *equate s69.1 s14.7
 *equate s70.1 s69.7
 *equate s71.0 s4.1
 *equate s71.16 s69.7
 *equate s72.0 s71.8
 *equate s73.14 s69.11
+*equate s75.23 s77.1
+*equate s76.19 s78.1
+*equate s43.2 s78.12
+*equate s40.22 s79.0
+
+; FIXME il fudrait une visée cailloux-tente-superlatifs -> broches tête de puit Marguerite Bayes
+*equate s75.0 s6.2
 
 *end

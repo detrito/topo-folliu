@@ -1,11 +1,9 @@
 *begin s71
 
-; FIXME nom galerie
 *title "Galerie Marmotte-Superlatifs"
 *date 2015.11.14
-
 *team Jacques Demierre compass clino tape
-*team Assez notes
+*team Folliu Bornés notes
 
 ; FIXME calibration
 *calibrate compass 0

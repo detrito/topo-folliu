@@ -1,6 +1,7 @@
 *begin s48
 
-*title "Visée 2 pour jonction entre le FB29 et le FB18  ->  NON TOPO CAR SEULEMENT POUR FAIRE LA JONCTION  ( août 2009 )"
+; FIXME : effectuer une vraie topo
+*title "Visée 2 pour jonction entre le FB29 et le FB18 (ESTIMATION UNIQUEMENT POUR FAIRE LA JONCTION)"
 *date 2009.8.30
 *team GSL compass clino tape
 *team GSL notes

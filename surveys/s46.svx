@@ -1,9 +1,12 @@
 *begin s46
 
-*title "Réseau Actif aval - Suite  ( Florian Ballenegger, Vincent Ballenegger, Jacques Demierre, Michel Demierre, Jérôme Hottinger - 23.08.2004 )"
+*title "Réseau Actif aval - Suite"
 *date 2004.8.23
-*team FBa-MDe compass clino tape
-*team VBalleneg notes
+*team Jérôme Hottinger compass clino tape
+*team Michel Demierre compass clino tape
+*team Jacques Demierre compass clino tape
+*team Florian Ballenegger compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.66
 *units compass grads

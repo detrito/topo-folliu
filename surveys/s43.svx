@@ -1,9 +1,9 @@
 *begin s43
 
-*title "Amont Vire Marteau - Escalade et remontée à droite de la Trisalle ( camp Folliu septembre 2003 )"
+*title "Amont Vire Marteau - Escalade et remontée à droite de la Trisalle"
 *date 2003.9.5
-*team ???? compass clino tape
-*team VBalleneg notes
+*team Camp Folliu compass clino tape
+*team Vincent Ballenegger notes
 
 *calibrate compass 0.53
 *units compass grads
