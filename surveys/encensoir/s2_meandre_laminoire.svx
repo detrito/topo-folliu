@@ -1,0 +1,65 @@
+*begin s2_meandre_laminoire
+
+*title "Encensoir"
+*date 2013.01.01
+
+*team Michel Demierre, AC Hauser compass clino
+*team Florian Ballenegger tape notes
+
+; FIXME calibration
+*calibrate compass 0
+
+*units compass degrees
+*units clino degrees
+
+*instrument compass "Compass Suunto Michel"
+*instrument clino "Clino Suunto Michel"
+
+*data normal from to tape compass clino
+1	2	6.6	-	DOWN
+2	3	3.08	83	7
+3	4	6.65	76	15
+4	5	4.77	63	-25
+5	6	3.45	88	-54
+6	7	6.4	70	-63
+7	8	4.42	-	DOWN
+8	9	7.26	78	19
+9	10	2.73	90	-1
+10	11	0.95	166	-6
+11	12	4.6	94	-27
+12	13	3.58	190	-25
+13	14	2.68	96	-29
+14	15	2.46	197	-34
+15	16	4.22	177	-11
+16	17	1.34	161	-8
+17	18	2.54	169	-23
+18	19	6.86	150	-31
+19	20	4.31	175	-36
+20	21	1.69	220	-27
+21	22	2.22	185	13
+
+*data passage station left right up down ignoreall
+2	0	2	10	1.5	;	bas puits
+3	0.8	0	6	2	;	début méandre
+4	1	0.5	1.5	1.5	;	Petite pointe dans méandre
+5	1	0.5	0	2	;	Plafond
+6	0.2	0.3	1	8	;	Noeud Y
+7	0.2	0.3	5	8	;	Noeud Y
+8	0	1	10	0.5	;	Bas corde, salle (stock de corde)
+9	0.8	0.2	4	5	;	Pointe dans méandre avant tournant à droite
+10	0	0.4	2	3	;	Tournant à droite
+11	0.3	0	0.5	2	;	Tournant à gauche
+12	0.1	0.3	0.2	2	;	Tournant à droite
+13	0.3	0	0.1	0.6	;	Tournant à gauche
+14	0	0.3	1	3	;	Tournant à droite
+15	0.3	0	1.8	0.6	;	Minage étroiture 2x
+16	0.1	0.2	0.2	1.4	;	
+17	0.2	0	0.4	6	;	désescalade
+18	0.3	0.2	0.5	6	;	passage par dessus
+19	0.5	0.2	0	2	;	Plafond
+20	0.2	0.2	0.4	2	;	
+21	0.3	0	1	1.5	;	Dans méandre étroit et rugeux
+22	0.3	0.2	0.4	2	;	Laminoire (haut du)
+
+
+*end s2_meandre_laminoire

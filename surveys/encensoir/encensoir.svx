@@ -1,0 +1,27 @@
+*begin Encensoir
+
+*title "Encensoir"
+;(Folliu-Borna, Fribourg, Suisse)
+
+*copyright 2015 AFB
+
+; coordinate system CH1903+_LV95 fot both input and output
+*cs EPSG:2056
+*cs out EPSG:2056
+
+*equate entree_Encensoir s1.1
+*fix entree_Encensoir 2566525 1150106 1610
+*entrance entree_Encensoir
+
+; fix altitude !
+
+*include s1
+*include s2_meandre_laminoire
+*include s3
+
+
+*equate s1.28 s2_meandre_laminoire.1
+*equate s2_meandre_laminoire.22 s3.1
+
+*end Encensoir
+

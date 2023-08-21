@@ -40,6 +40,7 @@
 *equate vire_marteau s20.3
 *equate trisalle s20.14
 
+*include surveys/encensoir/encensoir
 *include surveys/s1
 *include surveys/s2
 *include surveys/s3
