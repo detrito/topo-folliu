@@ -68,8 +68,10 @@
 *equate bivouac_noye s40.22
 *equate vieux_fond s79.18
 
-*include surveys/encensoir/encensoir
-*include surveys/dragon/dragon
+*include dtm/terrain.svx
+*include surveys/encensoir/encensoir.svx
+*include surveys/encensoir/entonnoir.svx
+*include surveys/dragon/dragon.svx
 *include surveys/s1
 *include surveys/s2
 *include surveys/s3

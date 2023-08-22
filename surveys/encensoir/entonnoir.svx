@@ -1,0 +1,16 @@
+*begin entonnoir
+
+*title "Entonnoir"
+;(Dent de Lys, Fribourg, Suisse)
+
+*copyright 2015 AFB
+
+; coordinate system CH1903+_LV95 fot both input and output
+*cs EPSG:2056
+*cs out EPSG:2056
+
+*fix entree_Entonnoir 2566663	1150061  1573
+*entrance entree_Entonnoir
+
+*end entonnoir
+
