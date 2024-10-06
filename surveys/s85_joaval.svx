@@ -1,0 +1,106 @@
+*begin s85
+
+*title "Jo siffert cheminée + puits aval"
+*date 2024.08.30
+
+*team Luca compass clino tape
+*team Florian notes
+
+*units compass degrees
+*units clino degrees
+
+*instrument compass "DistoX"
+*instrument clino "DistoX"
+
+*data normal from to tape compass clino
+
+1	2	3.746	118.5	-61.2
+2	3	3.586	198.2	-37.2
+3	4	5.264	104.1	-43.4
+4	5	1.799	26.7	-1.8
+5	6	0.803	135.8	7.9
+6	7	6.092	64	-44.6
+7	8	13.38	78.1	-43.4
+8	9	0.845	133.9	-29
+9	10	4.78	13.3	3.5
+10	11	2.28	47.4	-24.5
+11	12	2.733	18	-0.9
+12	13	3.215	35	-6.2
+13	14	8.62	57.6	-26.7
+14	15	9.31	346.6	33.3
+15	16	3.122	350.9	10.8
+16	17	2.779	229.4	3.9
+17	18	7.229	335.3	54.1
+18	19	6.325	29.5	13.8
+19	20	5.134	313.4	47.5
+20	21	3.841	266	71
+21	22	5.13	35.7	16.4
+22	23	16.63	25.9	-11.9
+23	24	7.462	1.9	18.7
+24	25	11.204	31.7	8.5
+25	26	5.709	350.1	22.4
+26	27	8.331	16.6	11.3
+27	28	7.929	352.1	19
+28	29	6.504	23	9.8
+29	30	8.898	23.2	12.1
+30	31	5.45	6.1	18.4
+31	32	3.05	74.9	-49.2
+32	33	6.191	38.8	-56.4
+33	34	22.7	89.4	-46.4
+34	35	21.62	122.9	-48.7
+35	36	5.89	171.7	-51.2
+36	37	7.914	144.4	-32.3
+37	38	6.565	107.4	-18.4
+38	39	3.629	75.9	-2.7
+39	40	5.849	143.4	-8
+40	41	6.961	30.5	4.4
+41	42	16.43	111.7	-48
+
+
+*data passage station left right up down ignoreall
+1	0	1.3	1.4	3	;	point topo existant avant vire, pt s80.6
+2	0	0.8	4	0.6	;	avant etroiture verticale
+3	0.4	0	2.5	5	;	bas désescalade
+4	1	0	0.8	0.8	;	après courte étroiture
+5	1.5	0	0.8	0.8	;	Même petite salle
+6	0.8	1	1	0.5	;	actif
+7	1	1.2	4	0.3	;	salle de la perte dans les galets
+8	0.6	0	0.2	0.2	;	entrés baptistère
+9	0.2	0.2	0.2	0.2	;	après baptistère
+10	0.2	0.2	0	0.3	;	fin petite salle
+11	0	0.4	0.9	0.4	;	silex gauche mi-hauteure, debut salle première cheminée
+12	0	1	1	0.7	;	première cheminée qui goute (après cheminée)
+13	1	0	2	1	;	deuxième cheminée bifurcation haut-bas
+14	0.7	0.4	0	2	;	haut salle escalade
+15	1	0	1.8	1.8	;	tournant vers gauche, amont actif
+16	0	1.7	2.5	1.7	;	tournant vers droite
+17	0.5	0.5	3	2	;	amarrage
+18	1	0	2	1.8	;	silex 50cm avant ammarage
+19	1	1	5	7	;	lame gauche mi-corde vers fractio
+20	2	1	1	10	;	petite pointe haut corde
+21	3	0	5	2	;	salle bifurcation
+22	1	1	1	0.2	;	chemin tourisme pédestre/morlon beach
+23	0	2	0.8	0.3	;	stalactite paroi gauche
+24	2	0	0.5	0.1	;	cairn, sol galerie éternelle (éternit)
+25	2	1	0	0.6	;	plafond
+26	2	0	0.9	0.2	;	paroi droite, la galerie devien plus haute
+27	1	2	1.2	1.3	;	promontoire paroi gauche
+28	1	2	1	1	;	paroi gauche
+29	2	0.8	1	2.8	;	paroi droite, galerie en forme de méandre
+30	0	1	1	10	;	paroi gauche amarrage sangle
+31	0.5	0	3	6	;	amarrage fractio
+32	0	3	5	10	;	coulée mondmilch
+33	0	1	6	10	;	près amarrage paroi gauche
+34	0.2	1	10	8	;	pied au fractio
+35	0.2	1.2	14	6	;	avant fractio du puits avec corde séparée
+36	0.5	0	10	1.8	;	méandre crochu
+37	1.5	0	10	1.8	;	salle plat lac de boue 
+38	0	1.2	6	2	;	suite coulée de boue
+39	3	0	1	1.8	;	tournant à gauche, paroi droite
+40	1.4	0	2	4	;	début puit inclinée sableux
+41	3	0	2	1	;	bas de corde bifurcation actif
+	
+
+
+*end s85
+

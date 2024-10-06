@@ -155,6 +155,8 @@
 *include surveys/s81
 *include surveys/s82
 *include surveys/s83
+*include surveys/s84
+*include surveys/s85_joaval
 
 *equate s2.0 s1.27
 *equate s3.0 s2.13
@@ -243,6 +245,8 @@
 *equate s80.12 s81.1
 *equate s80.20 s82.100
 *equate s77.18	s83.1
+*equate s84.1 s82.28
+*equate s85.1 s80.6
 
 ; FIXME il fudrait une visée cailloux-tente-superlatifs -> broches tête de puit Marguerite Bayes
 *equate s75.0 s6.2

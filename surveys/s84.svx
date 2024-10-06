@@ -1,0 +1,38 @@
+*begin s84
+
+*title "Jo siffert suite plinitude"
+*date 2024.08.12
+
+*team Inconnu compass clino tape
+*team Gilles Rosselet notes
+
+*units compass degrees
+*units clino degrees
+
+*instrument compass "Suunto Tandem Michel"
+*instrument clino "Suunto Tandem Michel"
+
+*data normal from to tape compass clino
+1	4	5.97	307	+23
+4	5	4.07	326	-10
+5	6	2.75	340	+13
+6	7	3.75	205	+47
+7	8	7.56	289	+42
+8	9	2.61	329	+32
+9	10	6.16	207	+8
+10	11	4.44	186	+24
+
+
+*data passage station left right up down ignoreall
+1	0.3	1	1	15	;	sommet puits noeud Y
+4	0.3	0.2	0.3	0.2	;	début tube mouillé ?
+5	0	0.4	0.2	0.2	;	Fin couloir
+6	0.2	0.3	0.5	0.7	;	
+7	0.3	1.2	0.3	1.7	;	
+8	0	1	0.3	1.5	;	Fin guli remontant
+9	2	0	0	0	;	Faille honi
+10	0.8	0.2	0.1	0.4	;	
+11	2.9	0	5	1.5	;	Salle sur faille
+
+*end s84
+
