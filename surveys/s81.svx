@@ -1,0 +1,45 @@
+*begin s81
+
+*title "Gouffre Jo Siffert"
+*date 2023.09.17
+
+*team Anne-Cécile Ballenegger notes 
+*team Michel Demierre compass clino 
+*team Dimitri tape
+
+*units compass degrees
+*units clino degrees
+
+*instrument compass "Suunto Tandem Michel"
+*instrument clino "Suunto Tandem Michel"
+
+*data normal from to tape compass clino
+1	2	7.28	174	+51
+2	3	4.34	241	+8
+3	4	8.54	204	+9
+4	5	5.55	211	+10
+5	6	6.25	234	+34
+6	7	10.25	211	+10
+7	8	6.88	292	+47
+8	9	9.57	227	+42
+9	10	5.65	182	+2
+10	11	6.14	223	+38
+11	12	6.49	216	+29
+
+
+*data passage station left right up down ignoreall
+1	2.5	0	8	1	;	salle avec gouile en bas du puits
+2	0	1	0.5	1.3	;	Haut du méandre gauche
+3	0.6	0	1	5	;	Côté droite du méandre
+4	0.7	0	3	2	;	Côté droite du méandre
+5	0	0.8	3	2.5	;	Côté gauche du méandre
+6	0	0.5	1	3	;	Côté gauche du méandre
+7	0	4	5	2	;	Gauche de la salle avec grosse plaque de silex par terre (Jacudim)
+8	1	1	0	0.7	;	Haut de la salle départ méandre au plafond
+9	0.5	0	0.8	2.5	;	Droite du méandre
+10	0	0.5	2	1.5	;	Gauche du méandre
+11	0	1	2.5	5	;	Silex en haut du méandre (tobogan de la mort - guillotine tombée)
+12	0	0.8	1	6	;	Haut du tobogan
+
+*end s81
+
